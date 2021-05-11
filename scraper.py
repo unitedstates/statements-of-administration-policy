@@ -28,19 +28,20 @@ class SAPSpider(scrapy.Spider):
         }
     }
 
-    now = datetime.datetime.now().isoformat()
-
     def parse(self, response):
         soup = bs4(response.text, 'html.parser')
 
         con = soup.find('section', {'class': 'body-content'})
+        con = con.find('div', {'class': 'container'})
         con = con.find('div', {'class': 'row'})
         ps = con.findAllNext('p')[1:]
 
-        for i in range(len(ps)):
-            date_issued = ps[i].text.split('(')[-2].split(')')[0]
+        for item in ps:
+            if not item.find("a"): continue
 
-            text = ps[i].find('a').text
+            date_issued = item.text.split('(')[-2].split(')')[0]
+
+            text = item.find('a').text
             bill_numbers = text.split('–')[0].strip()
             bill_numbers = bill_numbers.split(",")
             bill_numbers = [re.sub(r"[\s\.]", "", b.lower()) for b in bill_numbers]
@@ -51,8 +52,8 @@ class SAPSpider(scrapy.Spider):
                 'congress': self.get_congress_number(date_issued[-4:]),
                 'date_issued': dateutil.parser.parse(date_issued).date().isoformat(),
                 'file': None, # inserted later
-                'fetched_from_url': ps[i].find('a', href=True)['href'],
-                'date_fetched': self.now,
+                'fetched_from_url': item.find('a', href=True)['href'],
+                'date_fetched': None, # inserted later
                 'source': response.request.url,
             }
 
@@ -94,6 +95,7 @@ class SAPPipeline:
             with open(fn, "wb") as f:
                 with requests.get(item['fetched_from_url']) as response:
                     f.write(response.content)
+            item['date_fetched'] = datetime.datetime.now().isoformat()
 
         # Add metadata to output document.
         self.data.append(dict(item))
@@ -103,7 +105,24 @@ class SAPPipeline:
         self.data = []
 
     def close_spider(self, spider):
+        # Don't update date_fetched when we don't download a PDF, so
+        # pull in the existing fetch date for files we already have.
+        fn = "archive/" + spider.AdministrationCode + ".yaml"
+
+        if os.path.exists(fn):
+            # Load existing date_fetched fields and map to their filenames.
+            file_date_fetched = { }
+            with open(fn) as f:
+                for item in rtyaml.load(f):
+                    file_date_fetched[item["file"]] = item["date_fetched"]
+
+            # Apply.
+            for item in self.data:
+                if item["date_fetched"] is None:
+                    item["date_fetched"] = file_date_fetched[item["file"]]
+
+
         # Save to YAML file.
-        with open("archive/" + spider.AdministrationCode + ".yaml", "w") as f:
+        with open(fn, "w") as f:
             rtyaml.dump(self.data, f)
 

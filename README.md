@@ -26,7 +26,7 @@ Each YAML file is a list of records, one record per SAP. Each record has a self-
 ```yaml
 - bills:
   - hr1734
-  document_title: Civilian Property Realignment Act (2 pages, 223 kb)
+  document_title: Civilian Property Realignment Act
   congress: 112
   date_issued: '2012-02-06'
   file: statements/44-Obama/112/2012-02-06_hr1734.pdf
@@ -52,7 +52,7 @@ Notes:
 
 * Each Statement of Administration Policy may relate to more than one bill, although this is uncommon.
 * Bill IDs are given in the same format as `bill_id`s in the congress project scraper (see [https://github.com/unitedstates/congress/wiki/bills](https://github.com/unitedstates/congress/wiki/bills)), except that the Congress number is stored in a separate field.
-* The `fetched_from_url` will be invalid after the end of the administration but may be resolvable on the Internet Archive Wayback Machine.
+* The `fetched_from_url` may be invalid after the end of the administration but may be resolvable on the Internet Archive Wayback Machine.
 
 ### PDFs
 

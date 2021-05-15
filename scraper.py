@@ -6,7 +6,6 @@ import os
 import os.path
 
 import requests
-from itemadapter import ItemAdapter
 import scrapy
 from bs4 import BeautifulSoup as bs4
 import rtyaml

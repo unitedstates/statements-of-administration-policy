@@ -1,3 +1,42 @@
+40-Reagan:
+  id:
+    govtrack: 412372
+  name:
+    first: Ronald
+    last: Reagan
+  terms:
+    start: '1981-01-20'
+    end: '1989-01-20'
+41-Bush:
+  id:
+    bioguide: B001166
+    govtrack: 402108
+  name:
+    first: George
+    middle: H.W.
+    last: Bush
+  terms:
+    start: '1989-01-20'
+    end: '1993-01-20'
+42-Clinton:
+  id:
+    govtrack: 412374
+  name:
+    first: William
+    last: Clinton
+  terms:
+    start: '1993-01-20'
+    end: '2001-01-20'
+43-Bush:
+  id:
+    govtrack: 412375
+  name:
+    first: George
+    middle: W.
+    last: Bush
+  terms:
+    start: '2001-01-20'
+    end: '2009-01-20'
 44-Obama:
   id:
     bioguide: O000167
@@ -7,7 +46,7 @@
     last: Obama
   terms:
     start: '2009-01-20'
-    end: '2013-01-20'
+    end: '2017-01-20'
 45-Trump:
   id:
     govtrack: 412733

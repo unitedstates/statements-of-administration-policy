@@ -88,6 +88,8 @@ To run the current scraper, first install Python modules:
 
 	pip install -r requirements.txt
 
+Python 3.6+ is required, otherwise the order of the keys in the YAML file changes on each run, which is very inconvenient since the data is tracked in git.
+
 Then start the scraper to fetch new Statements of Administration Policy:
 
 	scrapy runspider scraper.py --loglevel=ERROR

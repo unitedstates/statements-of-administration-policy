@@ -41,7 +41,12 @@ class SAPSpider(scrapy.Spider):
             date_issued = item.text.split('(')[-2].split(')')[0]
 
             text = item.find('a').text
-            bill_numbers = text.split('–')[0].strip()
+            for split_char in ('—', '–', '-'): # em dash, en dash, hyphen
+            	if split_char in text:
+            		bill_numbers = text.split(split_char)[0].strip()
+            		break
+            else:
+            	raise ValueError("Could not find bill number(s) in document title text.")
             bill_numbers = bill_numbers.split(",")
             bill_numbers = [re.sub(r"[\s\.]", "", b.lower()) for b in bill_numbers]
 

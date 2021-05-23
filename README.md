@@ -96,10 +96,13 @@ Then start the scraper to fetch new Statements of Administration Policy:
 
 This will update the latest YAML file and download new PDFs.
 
+Test the metadata integrity by runing:
+  
+  python3 test.py
+
+The above process is run as a [scheduled job in GitHub Actions](.github/workflows/run_scraper.yaml).
+
 You can also run the UCSB American Presidency Project scraper, although it should produce no further changes to the data here:
 
 	scrapy runspider ucsb_scraper.py
 
-You can also test the metadata integrity by runing
-	
-	python3 test.py

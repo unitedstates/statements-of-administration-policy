@@ -82,6 +82,22 @@ class SAPPipeline:
     def from_crawler(cls, crawler):
         return cls()
 
+    def open_spider(self, spider):
+        # Collect scraped data here.
+        self.data = []
+
+        # Save here.
+        self.fn = "archive/" + spider.AdministrationCode + ".yaml"
+
+        # Don't update date_fetched when we don't download a PDF, so
+        # pull in the existing fetch date for files we already have
+        # so that we can pull the dates forward.
+        self.file_date_fetched = { }
+        if os.path.exists(self.fn):
+            with open(self.fn) as f:
+                for item in rtyaml.load(f):
+                    self.file_date_fetched[item["file"]] = item["date_fetched"]
+
     def process_item(self, item, spider):
         # Construct a filename for saving the SAP PDF and put
         # that into the metadata.
@@ -101,32 +117,22 @@ class SAPPipeline:
                     f.write(response.content)
             item['date_fetched'] = datetime.datetime.now().isoformat()
 
+        # If we have downloaded the file already, pull forward
+        # the date_fetched value from the last run.
+        elif item["file"] in self.file_date_fetched:
+            item["date_fetched"] = self.file_date_fetched[item["file"]]
+
+        # The file is on disk but somehow it wasn't mentioned in
+        # the YAML file previously saved, so just reset date_fetched to now.
+        # This should never occur except in testing.
+        else:
+            item['date_fetched'] = datetime.datetime.now().isoformat()
+
         # Add metadata to output document.
         self.data.append(dict(item))
 
-    def open_spider(self, spider):
-        # Collect scraped data here.
-        self.data = []
-
     def close_spider(self, spider):
-        # Don't update date_fetched when we don't download a PDF, so
-        # pull in the existing fetch date for files we already have.
-        fn = "archive/" + spider.AdministrationCode + ".yaml"
-
-        if os.path.exists(fn):
-            # Load existing date_fetched fields and map to their filenames.
-            file_date_fetched = { }
-            with open(fn) as f:
-                for item in rtyaml.load(f):
-                    file_date_fetched[item["file"]] = item["date_fetched"]
-
-            # Apply.
-            for item in self.data:
-                if item["date_fetched"] is None:
-                    item["date_fetched"] = file_date_fetched[item["file"]]
-
-
         # Save to YAML file.
-        with open(fn, "w") as f:
+        with open(self.fn, "w") as f:
             rtyaml.dump(self.data, f)
 

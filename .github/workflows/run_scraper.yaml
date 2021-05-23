@@ -1,0 +1,33 @@
+name: Run scraper on a schedule and push all changed and new files to the repository
+
+on:
+  # Run periodically.
+  schedule:
+    - cron: '43 */8 * * *'  # every eight hours on the 43rd minute
+
+  # Also run on push. Fortunately GitHub Actions doesn't trigger this
+  # from the push that this action itself pushes!
+  #push:
+jobs:
+  run_scraper_and_push:
+    name: Run scraper and push all changed and new files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          pip install -r requirements.txt
+      - run: |
+          scrapy runspider scraper.py --loglevel=ERROR
+      - run: |
+          python test.py
+      - name: git add && git commit && git push
+        run: |
+          git add -A archive
+          if ! git diff-index --quiet --cached HEAD --; then # https://stackoverflow.com/a/2659808
+            git config --global user.name 'GitHub Action run_scraper'
+            git config --global user.email 'unitedstates@users.noreply.github.com'
+            git commit -am "Scraper run by GitHub Action"
+            git push
+          else
+            echo Nothing scraped so nothing to commit and push.
+          fi

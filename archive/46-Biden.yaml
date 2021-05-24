@@ -1,4 +1,54 @@
 - bills:
+  - sjres13
+  document_title: S.J. Res. 13 – A joint resolution for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by the Equal
+    Employment Opportunity Commission relating to “Update of Commission’s Conciliation
+    Procedures”
+  congress: 117
+  date_issued: '2021-05-18'
+  file: statements/46-Biden/117/2021-05-18_sjres13.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/05/SAP-S.J.-Res.-13.pdf
+  date_fetched: '2021-05-24T02:08:14.024066'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3237
+  document_title: H.R. 3237 — Emergency Security Supplemental to Respond to January
+    6th Appropriations Act, 2021
+  congress: 117
+  date_issued: '2021-05-18'
+  file: statements/46-Biden/117/2021-05-18_hr3237.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/05/SAP-HR-3237.pdf
+  date_fetched: '2021-05-24T02:08:14.106854'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3233
+  document_title: H.R. 3233 – National Commission to Investigate the January 6 Attack
+    on the United States Capitol Complex Act
+  congress: 117
+  date_issued: '2021-05-18'
+  file: statements/46-Biden/117/2021-05-18_hr3233.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/05/SAP-HR-3233.pdf
+  date_fetched: '2021-05-24T02:08:14.180294'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - s1260
+  document_title: S.1260 – Endless Frontier Act
+  congress: 117
+  date_issued: '2021-05-17'
+  file: statements/46-Biden/117/2021-05-17_s1260.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/05/SAP-S.-1260.pdf
+  date_fetched: '2021-05-24T02:08:14.285483'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr1629
+  document_title: H.R. 1629 – Fairness in Orphan Drug Exclusivity Act
+  congress: 117
+  date_issued: '2021-05-17'
+  file: statements/46-Biden/117/2021-05-17_hr1629.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/05/SAP-HR-1629-.pdf
+  date_fetched: '2021-05-24T02:08:14.367361'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr1065
   document_title: H.R. 1065 – Pregnant Workers Fairness Act
   congress: 117
@@ -102,7 +152,7 @@
   date_issued: '2021-04-13'
   file: statements/46-Biden/117/2021-04-13_hr1195.pdf
   fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/04/SAP-HR1195.pdf
-  date_fetched: '2021-05-15T08:50:00.527065'
+  date_fetched: '2021-05-24T02:08:14.435518'
   source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
 - bills:
   - hr1603

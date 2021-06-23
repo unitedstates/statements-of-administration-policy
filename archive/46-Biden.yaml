@@ -1,4 +1,41 @@
 - bills:
+  - hr1443
+  document_title: H.R. 1443 – LGBTQ Business Equal Credit Enforcement and Investment
+    Act
+  congress: 117
+  date_issued: '2021-06-22'
+  file: statements/46-Biden/117/2021-06-22_hr1443.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/06/SAP-HR1443.pdf
+  date_fetched: '2021-06-23T01:35:56.245919'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2062
+  document_title: H.R. 2062 – Protecting Older Workers Against Discrimination Act
+  congress: 117
+  date_issued: '2021-06-22'
+  file: statements/46-Biden/117/2021-06-22_hr2062.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/06/SAP-HR-2062.pdf
+  date_fetched: '2021-06-23T01:35:56.296514'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr239
+  document_title: H.R. 239 – Equal Access to Contraception for Veterans Act
+  congress: 117
+  date_issued: '2021-06-22'
+  file: statements/46-Biden/117/2021-06-22_hr239.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/06/SAP-HR239.pdf
+  date_fetched: '2021-06-23T01:35:56.350561'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - s2093
+  document_title: S. 2093 – For the People Act of 2021
+  congress: 117
+  date_issued: '2021-06-22'
+  file: statements/46-Biden/117/2021-06-22_s2093.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/06/SAP-S_2093.pdf
+  date_fetched: '2021-06-23T01:35:56.397845'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr1187
   document_title: H.R. 1187 – Corporate Governance Improvement and Investor Protection
     Act

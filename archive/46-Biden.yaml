@@ -1,4 +1,13 @@
 - bills:
+  - hr3684
+  document_title: H.R. 3684 – INVEST in America Act
+  congress: 117
+  date_issued: '2021-06-28'
+  file: statements/46-Biden/117/2021-06-28_hr3684.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/06/SAP-HR3684.pdf
+  date_fetched: '2021-06-29T01:41:51.399435'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr1443
   document_title: H.R. 1443 – LGBTQ Business Equal Credit Enforcement and Investment
     Act

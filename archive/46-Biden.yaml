@@ -1,4 +1,32 @@
 - bills:
+  - hr2668
+  document_title: H.R. 2668 – Consumer Protection and Recovery Act
+  congress: 117
+  date_issued: '2021-07-19'
+  file: statements/46-Biden/117/2021-07-19_hr2668.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/07/HR2668.SAP-Final.pdf
+  date_fetched: '2021-07-20T01:50:01.710867'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2467
+  document_title: H.R. 2467 – PFAS Action Act
+  congress: 117
+  date_issued: '2021-07-19'
+  file: statements/46-Biden/117/2021-07-19_hr2467.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/07/HR2467.SAP-Final.docx.pdf
+  date_fetched: '2021-07-20T01:50:01.944465'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3985
+  document_title: H.R. 3985 – Averting Loss of Life and Injury by Expediting SIVs
+    Act of 2021
+  congress: 117
+  date_issued: '2021-07-19'
+  file: statements/46-Biden/117/2021-07-19_hr3985.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/07/HR3985.SAP-Final.pdf
+  date_fetched: '2021-07-20T01:50:02.183682'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3684
   document_title: H.R. 3684 – INVEST in America Act
   congress: 117

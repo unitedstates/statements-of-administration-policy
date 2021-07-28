@@ -1,4 +1,24 @@
 - bills:
+  - hr4373
+  document_title: H.R. 4373 — Department of State, Foreign Operations, and Related
+    Programs Appropriations Act, 2022
+  congress: 117
+  date_issued: '2021-07-27'
+  file: statements/46-Biden/117/2021-07-27_hr4373.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/07/SAP-H.R.-4373.pdf
+  date_fetched: '2021-07-28T01:47:53.262699'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4505
+  document_title: H.R. 4505 — Commerce, Justice, Science, and Related Agencies Appropriations
+    Act, 2022
+  congress: 117
+  date_issued: '2021-07-27'
+  file: statements/46-Biden/117/2021-07-27_hr4505.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/07/SAP-H.R.-4505.pdf
+  date_fetched: '2021-07-28T01:47:53.304378'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4502
   document_title: H.R. 4502 — Labor, Health and Human Services, Education, Agriculture,
     Rural Development, Energy and Water Development, Financial Services and General

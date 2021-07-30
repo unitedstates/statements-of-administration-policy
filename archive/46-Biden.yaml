@@ -1,4 +1,14 @@
 - bills:
+  - substituteamendmenttohr3237
+  document_title: Substitute Amendment to H.R. 3237 — Emergency Security Supplemental
+    to Respond to January 6th Appropriations Act, 2021
+  congress: 117
+  date_issued: '2021-07-29'
+  file: statements/46-Biden/117/2021-07-29_substituteamendmenttohr3237.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/07/SAP_H.R.-3237_Security-Supplemental.pdf
+  date_fetched: '2021-07-30T01:50:10.196380'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4373
   document_title: H.R. 4373 — Department of State, Foreign Operations, and Related
     Programs Appropriations Act, 2022

@@ -50,6 +50,12 @@ class SAPSpider(scrapy.Spider):
             bill_numbers = bill_numbers.split(",")
             bill_numbers = [re.sub(r"[\s\.]", "", b.lower()) for b in bill_numbers]
 
+            # Sanitize bill numbers.
+            bill_numbers = [
+                bn.replace("substituteamendmentto", "")
+                for bn in bill_numbers
+            ]
+
             yield {
                 'bills': bill_numbers,
                 'document_title': text,

@@ -7,6 +7,8 @@ import os.path
 import traceback
 import sys
 
+any_errors = False
+
 for fn in glob.glob("archive/*.yaml"):
 	filenames = set()
 	metadata = rtyaml.load(open(fn))
@@ -31,7 +33,12 @@ for fn in glob.glob("archive/*.yaml"):
 			print("-" * len(fn))
 			traceback.print_exc(file=sys.stdout)
 			print()
+			any_errors = True
 
 	for pdf_fn in glob.glob(fn.replace(".yaml", "").replace("archive/", "archive/statements/") + "/*/*.pdf"):
 		if pdf_fn.replace("archive/", "") not in filenames:
 			print(pdf_fn, "should be deleted.")
+			any_errors = True
+
+if any_errors:
+	sys.exit(1)

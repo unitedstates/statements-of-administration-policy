@@ -1,4 +1,13 @@
 - bills:
+  - hr4
+  document_title: H.R. 4 – John R. Lewis Voting Rights Advancement Act of 2021
+  congress: 117
+  date_issued: '2021-08-23'
+  file: statements/46-Biden/117/2021-08-23_hr4.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/08/SAP-HR4.pdf
+  date_fetched: '2021-08-23T17:03:23.878112'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3684
   document_title: Senate Substitute Amendment to H.R. 3684 – Infrastructure Investment
     and Jobs Act

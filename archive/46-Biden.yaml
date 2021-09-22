@@ -1,4 +1,23 @@
 - bills:
+  - hr5305
+  document_title: H.R. 5305 – Extending Government Funding and Delivering Emergency
+    Assistance Act
+  congress: 117
+  date_issued: '2021-09-21'
+  file: statements/46-Biden/117/2021-09-21_hr5305.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/09/SAP-HR-5305.pdf
+  date_fetched: '2021-09-22T01:46:29.650556'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4350
+  document_title: H.R. 4350 – National Defense Authorization Act for Fiscal Year 2022
+  congress: 117
+  date_issued: '2021-09-21'
+  file: statements/46-Biden/117/2021-09-21_hr4350.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/09/SAP-HR-4350.pdf
+  date_fetched: '2021-09-22T01:46:29.745860'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3755
   document_title: H.R. 3755 – Women’s Health Protection Act of 2021
   congress: 117

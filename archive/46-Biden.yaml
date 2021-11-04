@@ -1,4 +1,22 @@
 - bills:
+  - hr5376
+  document_title: H.R. 5376 – Build Back Better Act
+  congress: 117
+  date_issued: '2021-11-03'
+  file: statements/46-Biden/117/2021-11-03_hr5376.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/11/SAP-H.R.-5376-Build-Back-Better-Act.pdf
+  date_fetched: '2021-11-04T01:45:19.591236'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - s4
+  document_title: S.4 – John R. Lewis Voting Rights Advancement Act of 2021
+  congress: 117
+  date_issued: '2021-11-03'
+  file: statements/46-Biden/117/2021-11-03_s4.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/11/S.4-SAP.pdf
+  date_fetched: '2021-11-04T01:45:19.669201'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s2747
   document_title: S.2747 – Freedom to Vote Act
   congress: 117

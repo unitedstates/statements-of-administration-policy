@@ -1,4 +1,13 @@
 - bills:
+  - s2792
+  document_title: S.2792 – National Defense Authorization Act for Fiscal Year 2022
+  congress: 117
+  date_issued: '2021-11-17'
+  file: statements/46-Biden/117/2021-11-17_s2792.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/11/S-2797-SAP.pdf
+  date_fetched: '2021-11-18T01:42:48.574077'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5376
   document_title: H.R. 5376 – Build Back Better Act
   congress: 117

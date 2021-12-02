@@ -1,4 +1,13 @@
 - bills:
+  - hr6119
+  document_title: 'H.R. 6119 – Further Extending Government Funding Act '
+  congress: 117
+  date_issued: '2021-12-02'
+  file: statements/46-Biden/117/2021-12-02_hr6119.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/12/H.R.-6119-SAP.pdf
+  date_fetched: '2021-12-02T17:06:00.496719'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s2792
   document_title: S.2792 – National Defense Authorization Act for Fiscal Year 2022
   congress: 117

@@ -1,4 +1,26 @@
 - bills:
+  - sjres29
+  document_title: 'S.J. Res. 29 – Joint resolution providing for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by the Department
+    of Labor relating to “COVID-19 Vaccination and Testing; Emergency Temporary Standard” '
+  congress: 117
+  date_issued: '2021-12-07'
+  file: statements/46-Biden/117/2021-12-07_sjres29.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/12/S.J.-Res.-29-SAP.pdf
+  date_fetched: '2021-12-08T01:47:27.724976'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - sjres31
+  document_title: S.J. Res. 31 — Providing for Congressional Disapproval of the Proposed
+    Foreign Military Sales Case to the Kingdom of Saudi Arabia of Certain Defense
+    Articles
+  congress: 117
+  date_issued: '2021-12-07'
+  file: statements/46-Biden/117/2021-12-07_sjres31.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/12/S.J.Res_.31-SAP.pdf
+  date_fetched: '2021-12-08T01:47:27.835777'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr6119
   document_title: 'H.R. 6119 – Further Extending Government Funding Act '
   congress: 117

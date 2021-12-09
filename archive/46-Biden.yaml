@@ -1,4 +1,13 @@
 - bills:
+  - hr5314
+  document_title: H.R. 5314 – Protecting Our Democracy Act
+  congress: 117
+  date_issued: '2021-12-09'
+  file: statements/46-Biden/117/2021-12-09_hr5314.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/12/SAP-on-H.R.-5314-Protecting-Our-Democracy-Act.pdf
+  date_fetched: '2021-12-09T17:07:08.729537'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres29
   document_title: 'S.J. Res. 29 – Joint resolution providing for congressional disapproval
     under chapter 8 of title 5, United States Code, of the rule submitted by the Department

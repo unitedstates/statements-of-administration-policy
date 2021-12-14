@@ -1,4 +1,13 @@
 - bills:
+  - hr5665
+  document_title: H.R. 5665 – Combating International Islamophobia Act
+  congress: 117
+  date_issued: '2021-12-14'
+  file: statements/46-Biden/117/2021-12-14_hr5665.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/12/HR-5665-SAP.pdf
+  date_fetched: '2021-12-14T17:06:17.968665'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5314
   document_title: H.R. 5314 – Protecting Our Democracy Act
   congress: 117

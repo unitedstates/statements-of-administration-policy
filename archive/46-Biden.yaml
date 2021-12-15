@@ -1,4 +1,14 @@
 - bills:
+  - sjres33
+  document_title: S.J. Res. 33 – Joint Resolution Relating to Increasing the Debt
+    Limit
+  congress: 117
+  date_issued: '2021-12-14'
+  file: statements/46-Biden/117/2021-12-14_sjres33.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2021/12/SJRes33.pdf
+  date_fetched: '2021-12-15T01:45:41.956895'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5665
   document_title: H.R. 5665 – Combating International Islamophobia Act
   congress: 117

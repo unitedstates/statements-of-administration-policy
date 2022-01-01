@@ -39,6 +39,7 @@ class SAPSpider(scrapy.Spider):
             if not item.find("a"): continue
 
             date_issued = item.text.split('(')[-2].split(')')[0]
+            date_issued = re.sub(r",(?=\d)", ", ", date_issued) # a missing space after the comma in the date breaks dateutil.parser, as happened for 46-Biden/117/2021-09-21_hr5305
 
             text = item.find('a').text
             for split_char in ('—', '–', '-'): # em dash, en dash, hyphen

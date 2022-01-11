@@ -1,4 +1,22 @@
 - bills:
+  - hr1836
+  document_title: H.R. 1836 – Guard and Reserve GI Bill Parity Act of 2021
+  congress: 117
+  date_issued: '2022-01-10'
+  file: statements/46-Biden/117/2022-01-10_hr1836.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/01/SAP_H.R.-6800.pdf
+  date_fetched: '2022-01-11T01:52:47.402439'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4673
+  document_title: H.R. 4673 – Ensuring Veterans’ Smooth Transition (EVEST) Act
+  congress: 117
+  date_issued: '2022-01-10'
+  file: statements/46-Biden/117/2022-01-10_hr4673.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/01/SAP_H.R.-6800.pdf
+  date_fetched: '2022-01-11T01:52:47.499447'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres33
   document_title: S.J. Res. 33 – Joint Resolution Relating to Increasing the Debt
     Limit

@@ -1,4 +1,14 @@
 - bills:
+  - hr3967
+  document_title: 'H.R. 3967 – Honoring Our Promise to Address Comprehensive Toxics
+    (PACT) Act '
+  congress: 117
+  date_issued: '2022-02-28'
+  file: statements/46-Biden/117/2022-02-28_hr3967.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/02/SAP-HR3967.pdf
+  date_fetched: '2022-03-01T02:08:37.816714'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3076
   document_title: H.R. 3076 – Postal Service Reform Act of 2022
   congress: 117

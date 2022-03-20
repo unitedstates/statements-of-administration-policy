@@ -53,7 +53,7 @@ class SAPSpider(scrapy.Spider):
 
             # Sanitize bill numbers.
             bill_numbers = [
-                re.sub("(senate)?substituteamendmentto", "", bn)
+                re.sub("((senate|house)?(substitute)?amendmentto(the)?)+", "", bn)
                 for bn in bill_numbers
             ]
 

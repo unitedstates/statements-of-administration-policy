@@ -1,4 +1,45 @@
 - bills:
+  - sjres37
+  document_title: S.J. Res. 37 –A joint resolution providing for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by Centers
+    for Disease Control and Prevention relating to “Requirement for Persons To Wear
+    Masks While on Conveyances and at Transportation Hubs”.
+  congress: 117
+  date_issued: '2022-03-15'
+  file: statements/46-Biden/117/2022-03-15_sjres37.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/03/SJ-Res-37-SAP.pdf
+  date_fetched: '2022-03-20T08:50:28.364655'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr963
+  document_title: H.R. 963 – Forced Arbitration Injustice Repeal (FAIR) Act of 2022
+  congress: 117
+  date_issued: '2022-03-15'
+  file: statements/46-Biden/117/2022-03-15_hr963.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/03/SAP-H.R.-963.pdf
+  date_fetched: '2022-03-20T08:50:28.389713'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2116
+  document_title: H.R. 2116 – Creating a Respectful and Open World for Natural Hair
+    (CROWN) Act of 2022
+  congress: 117
+  date_issued: '2022-03-15'
+  file: statements/46-Biden/117/2022-03-15_hr2116.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/03/SAP-H.R.-2116.pdf
+  date_fetched: '2022-03-20T08:50:28.414758'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2471
+  document_title: House Amendment to the Senate Amendment to H.R. 2471 – Consolidated
+    Appropriations Act, 2022
+  congress: 117
+  date_issued: '2022-03-09'
+  file: statements/46-Biden/117/2022-03-09_hr2471.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/03/H.R.-2471-SAP-Final.pdf
+  date_fetched: '2022-03-20T08:50:28.442441'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres38
   document_title: S.J. Res. 38 – A joint resolution relating to a national emergencydeclared
     by the President on March 13, 2020

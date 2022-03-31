@@ -19,6 +19,9 @@ jobs:
       - run: |
           scrapy runspider scraper.py --loglevel=ERROR
       - run: |
+          git status
+          git diff
+      - run: |
           python test.py
       - name: git add && git commit && git push
         run: |

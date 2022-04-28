@@ -1,4 +1,16 @@
 - bills:
+  - sjres41
+  document_title: 'S.J. Res. 41 – A joint resolution providing for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by the Department
+    of Health and Human Services relating to “Ensuring Access to Equitable, Affordable,
+    Client-Centered, Quality Family Planning Services” '
+  congress: 117
+  date_issued: '2022-04-27'
+  file: statements/46-Biden/117/2022-04-27_sjres41.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/04/Statement-of-Administration-Policy-on-S.J.Res_.41.pdf
+  date_fetched: '2022-04-28T03:25:34.678472'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr6833
   document_title: H.R. 6833 – Affordable Insulin Now Act
   congress: 117

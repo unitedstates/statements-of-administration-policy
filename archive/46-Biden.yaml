@@ -1,6 +1,34 @@
 - bills:
+  - hr903
+  document_title: H.R. 903 – Rights for the TSA Workforce Act of 2022
+  congress: 117
+  date_issued: '2022-05-05'
+  file: statements/46-Biden/117/2022-05-05_hr903.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/05/HR903-SAP.pdf
+  date_fetched: '2022-05-11T02:48:50.205117'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2499
+  document_title: H.R. 2499 – Federal Firefighters Fairness Act of 2022
+  congress: 117
+  date_issued: '2022-05-05'
+  file: statements/46-Biden/117/2022-05-05_hr2499.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/05/HR2499-SAP-Federal-Firefighters-Fairness-Act-of-2022.pdf
+  date_fetched: '2022-05-11T02:48:50.221826'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr5129
+  document_title: 'H.R. 5129 – Community Services Block Grant Modernization Act of
+    2022 '
+  congress: 117
+  date_issued: '2022-05-05'
+  file: statements/46-Biden/117/2022-05-05_hr5129.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/05/HR5129-SAP.pdf
+  date_fetched: '2022-05-11T02:48:50.238510'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres39
-  document_title: ' S.J. Res. 39 – A joint resolution relating to Vaccine and Mask
+  document_title: 'S.J. Res. 39 – A joint resolution relating to Vaccine and Mask
     Requirements To Mitigate the Spread of COVID–19 in Head Start Programs. '
   congress: 117
   date_issued: '2022-05-05'

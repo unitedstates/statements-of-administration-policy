@@ -1,4 +1,13 @@
 - bills:
+  - s4132
+  document_title: S.4132 – Women’s Health Protection Act of 2022
+  congress: 117
+  date_issued: '2022-05-05'
+  file: statements/46-Biden/117/2022-05-05_s4132.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/05/S4132-SAP-Womens-Health-Protection-Act-of-2022.pdf
+  date_fetched: '2022-05-11T17:15:11.930087'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr903
   document_title: H.R. 903 – Rights for the TSA Workforce Act of 2022
   congress: 117

@@ -1,4 +1,13 @@
 - bills:
+  - hr7309
+  document_title: H.R. 7309 – Workforce Innovation and Opportunity Act of 2022
+  congress: 117
+  date_issued: '2022-05-16'
+  file: statements/46-Biden/117/2022-05-16_hr7309.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/05/SAP-HR-7309-WIOA.pdf
+  date_fetched: '2022-05-17T02:47:47.583604'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s4132
   document_title: S.4132 – Women’s Health Protection Act of 2022
   congress: 117

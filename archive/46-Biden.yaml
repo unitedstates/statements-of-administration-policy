@@ -1,4 +1,13 @@
 - bills:
+  - hr350
+  document_title: H.R. 350 – Domestic Terrorism Prevention Act of 2022
+  congress: 117
+  date_issued: '2022-05-18'
+  file: statements/46-Biden/117/2022-05-18_hr350.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/05/hr350.sap_Domestic-Terrorism-Prevention-Act.pdf
+  date_fetched: '2022-05-19T02:51:40.049769'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr7309
   document_title: H.R. 7309 – Workforce Innovation and Opportunity Act of 2022
   congress: 117
@@ -46,8 +55,7 @@
   source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
 - bills:
   - sjres39
-  document_title: 'S.J. Res. 39 – A joint resolution relating to Vaccine and Mask
-    Requirements To Mitigate the Spread of COVID–19 in Head Start Programs. '
+  document_title: 'S.J. Res. 39 – A '
   congress: 117
   date_issued: '2022-05-05'
   file: statements/46-Biden/117/2022-05-05_sjres39.pdf

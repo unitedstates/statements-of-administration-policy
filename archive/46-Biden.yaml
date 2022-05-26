@@ -1,4 +1,14 @@
 - bills:
+  - sjres46
+  document_title: S.J. Res. 46 – Joint Resolution Providing for Congressional Disapproval
+    of a Rule Relating to Procedures for Processing of Asylum Claims
+  congress: 117
+  date_issued: '2022-05-26'
+  file: statements/46-Biden/117/2022-05-26_sjres46.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/05/SAP-SJR46.pdf
+  date_fetched: '2022-05-26T17:05:31.620804'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr350
   document_title: H.R. 350 – Domestic Terrorism Prevention Act of 2022
   congress: 117

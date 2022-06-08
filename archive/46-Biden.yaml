@@ -1,4 +1,33 @@
 - bills:
+  - hr2377
+  document_title: H.R. 2377 – Federal Extreme Risk Protection Order Act of 2022
+  congress: 117
+  date_issued: '2022-06-07'
+  file: statements/46-Biden/117/2022-06-07_hr2377.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/hr2377-SAP-FINAL.pdf
+  date_fetched: '2022-06-08T02:47:21.356528'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr7910
+  document_title: H.R. 7910 – Protecting Our Kids Act
+  congress: 117
+  date_issued: '2022-06-07'
+  file: statements/46-Biden/117/2022-06-07_hr7910.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/HR-7910-SAP.pdf
+  date_fetched: '2022-06-08T02:47:21.377092'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3967
+  document_title: Senate Substitute Amendment to H.R. 3967 – Sergeant First Class
+    Heath Robinson Honoring Our Promise to Address Comprehensive Toxics (PACT) Act
+    of 2022
+  congress: 117
+  date_issued: '2022-06-07'
+  file: statements/46-Biden/117/2022-06-07_hr3967.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/SAP-HR3967-PACT-Act-Senate.pdf
+  date_fetched: '2022-06-08T02:47:21.398530'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres46
   document_title: S.J. Res. 46 – Joint Resolution Providing for Congressional Disapproval
     of a Rule Relating to Procedures for Processing of Asylum Claims

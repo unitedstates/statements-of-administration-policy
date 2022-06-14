@@ -1,4 +1,32 @@
 - bills:
+  - hr2773
+  document_title: H.R. 2773 – Recovering America’s Wildlife Act of 2022
+  congress: 117
+  date_issued: '2022-06-13'
+  file: statements/46-Biden/117/2022-06-13_hr2773.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/HR-2773-SAP.docx.pdf
+  date_fetched: '2022-06-14T02:58:08.546380'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2543
+  document_title: H.R. 2543 – Financial Services Racial Equity, Inclusion, and Economic
+    Justice Act
+  congress: 117
+  date_issued: '2022-06-13'
+  file: statements/46-Biden/117/2022-06-13_hr2543.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/HR-2543SAP.docx.pdf
+  date_fetched: '2022-06-14T02:58:08.625500'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr7606
+  document_title: H.R. 7606 – Lower Food and Fuel Costs Act
+  congress: 117
+  date_issued: '2022-06-13'
+  file: statements/46-Biden/117/2022-06-13_hr7606.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/HR7606-SAP.docx.pdf
+  date_fetched: '2022-06-14T02:58:08.694301'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr2377
   document_title: H.R. 2377 – Federal Extreme Risk Protection Order Act of 2022
   congress: 117

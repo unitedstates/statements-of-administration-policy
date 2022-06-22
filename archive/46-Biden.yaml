@@ -1,4 +1,32 @@
 - bills:
+  - hr5585
+  document_title: H.R. 5585 – ARPA–H Act
+  congress: 117
+  date_issued: '2022-06-21'
+  file: statements/46-Biden/117/2022-06-21_hr5585.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/HR-5585-SAP.pdf
+  date_fetched: '2022-06-22T02:53:51.570934'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4176
+  document_title: H.R. 4176 – LGBTQI+ Data Inclusion Act
+  congress: 117
+  date_issued: '2022-06-21'
+  file: statements/46-Biden/117/2022-06-21_hr4176.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/H.R.-4176-SAP.pdf
+  date_fetched: '2022-06-22T02:53:51.616543'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr7666
+  document_title: H.R. 7666 – Restoring Hope for Mental Health and Well-Being Act
+    of 2022
+  congress: 117
+  date_issued: '2022-06-21'
+  file: statements/46-Biden/117/2022-06-21_hr7666.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/HR-7666-SAP.pdf
+  date_fetched: '2022-06-22T02:53:51.664021'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr2773
   document_title: H.R. 2773 – Recovering America’s Wildlife Act of 2022
   congress: 117

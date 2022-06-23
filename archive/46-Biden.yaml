@@ -1,4 +1,13 @@
 - bills:
+  - s2938
+  document_title: S.2938 – Bipartisan Safer Communities Act
+  congress: 117
+  date_issued: '2022-06-23'
+  file: statements/46-Biden/117/2022-06-23_s2938.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/06/Bipartisan-Safer-Communities-Act-SAP-1.pdf
+  date_fetched: '2022-06-23T17:04:08.643578'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5585
   document_title: H.R. 5585 – ARPA–H Act
   congress: 117

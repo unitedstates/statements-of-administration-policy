@@ -1,4 +1,40 @@
 - bills:
+  - hr7900
+  document_title: H.R. 7900 – National Defense Authorization Act for Fiscal Year 2023
+  congress: 117
+  date_issued: '2022-07-12'
+  file: statements/46-Biden/117/2022-07-12_hr7900.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/H.R.-7900-NDAA-SAP.pdf
+  date_fetched: '2022-07-12T17:04:00.356495'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr6538
+  document_title: H.R. 6538 – Active Shooter Alert Act of 2022
+  congress: 117
+  date_issued: '2022-07-12'
+  file: statements/46-Biden/117/2022-07-12_hr6538.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/H.R.-6538-SAP.pdf
+  date_fetched: '2022-07-12T17:04:00.401471'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8296
+  document_title: H.R. 8296 – Women’s Health Protection Act of 2022
+  congress: 117
+  date_issued: '2022-07-12'
+  file: statements/46-Biden/117/2022-07-12_hr8296.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/SAP-HR8296-Womens-Health-Protection-Act-of-2022.pdf
+  date_fetched: '2022-07-12T17:04:00.448053'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8297
+  document_title: H.R. 8297 – Ensuring Access to Abortion Act of 2022
+  congress: 117
+  date_issued: '2022-07-12'
+  file: statements/46-Biden/117/2022-07-12_hr8297.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/SAP-HR8297-Ensuring-Access-to-Abortion-Act.pdf
+  date_fetched: '2022-07-12T17:04:00.494135'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s2938
   document_title: S.2938 – Bipartisan Safer Communities Act
   congress: 117

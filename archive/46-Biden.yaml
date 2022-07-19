@@ -1,4 +1,25 @@
 - bills:
+  - hr8294
+  document_title: H.R. 8294 —Transportation, Housing and Urban Development, Agriculture,
+    Rural Development, Energy and Water Development, Financial Services and General
+    Government, Interior, Environment, Military Construction, and Veterans Affairs
+    Appropriations Act, 2023
+  congress: 117
+  date_issued: '2022-07-18'
+  file: statements/46-Biden/117/2022-07-18_hr8294.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/H.R.-8294-SAP.pdf
+  date_fetched: '2022-07-19T03:10:15.401859'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8373
+  document_title: H.R. 8373 – Right to Contraception Act
+  congress: 117
+  date_issued: '2022-07-18'
+  file: statements/46-Biden/117/2022-07-18_hr8373.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/SAP-HR8373-Right-to-Contraception-Act.pdf
+  date_fetched: '2022-07-19T03:10:15.448186'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr7900
   document_title: H.R. 7900 – National Defense Authorization Act for Fiscal Year 2023
   congress: 117

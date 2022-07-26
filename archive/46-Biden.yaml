@@ -1,4 +1,13 @@
 - bills:
+  - hr4346
+  document_title: 'Senate Substitute Amendment to H.R. 4346 – CHIPS Act of 2022 '
+  congress: 117
+  date_issued: '2022-07-26'
+  file: statements/46-Biden/117/2022-07-26_hr4346.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/SAP-H.R.-4346-Senate-Amendment-CHIPS.pdf
+  date_fetched: '2022-07-26T17:01:53.879728'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr6929
   document_title: H.R. 6929 – Susan Muffley Act of 2022
   congress: 117

@@ -1,4 +1,31 @@
 - bills:
+  - hr5118
+  document_title: H.R. 5118 – Wildfire Response and Drought Resiliency Act
+  congress: 117
+  date_issued: '2022-07-26'
+  file: statements/46-Biden/117/2022-07-26_hr5118.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/SAP-H.R.-5118.pdf
+  date_fetched: '2022-07-27T03:06:40.534468'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr263
+  document_title: H.R. 263 – The Big Cat Public Safety Act
+  congress: 117
+  date_issued: '2022-07-26'
+  file: statements/46-Biden/117/2022-07-26_hr263.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/SAP-H.R.-263.pdf
+  date_fetched: '2022-07-27T03:06:40.606178'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4040
+  document_title: H.R. 4040 – Advancing Telehealth Beyond COVID-19 Act of 2022
+  congress: 117
+  date_issued: '2022-07-26'
+  file: statements/46-Biden/117/2022-07-26_hr4040.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/SAP-H.R.-4040.pdf
+  date_fetched: '2022-07-27T03:06:40.680122'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4346
   document_title: 'Senate Substitute Amendment to H.R. 4346 – CHIPS Act of 2022 '
   congress: 117

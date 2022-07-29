@@ -1,4 +1,13 @@
 - bills:
+  - hr1808
+  document_title: H.R. 1808 – Assault Weapons Ban
+  congress: 117
+  date_issued: '2022-07-29'
+  file: statements/46-Biden/117/2022-07-29_hr1808.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/07/SAP-HR-1808.pdf
+  date_fetched: '2022-07-29T17:02:51.226879'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5118
   document_title: H.R. 5118 – Wildfire Response and Drought Resiliency Act
   congress: 117

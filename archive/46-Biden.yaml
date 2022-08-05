@@ -1,4 +1,14 @@
 - bills:
+  - sjres55
+  document_title: S.J. Res. 55 – A Joint Resolution Providing for Congressional Disapproval
+    of a Rule “National Environmental Policy Act Implementing Regulations Revisions”
+  congress: 117
+  date_issued: '2022-08-04'
+  file: statements/46-Biden/117/2022-08-04_sjres55.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/08/SAP-S.J.-Res.-55-NEPA-CRA.pdf
+  date_fetched: '2022-08-05T03:02:12.801931'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr1808
   document_title: H.R. 1808 – Assault Weapons Ban
   congress: 117

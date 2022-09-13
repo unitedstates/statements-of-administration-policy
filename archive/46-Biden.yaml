@@ -1,4 +1,31 @@
 - bills:
+  - hr302
+  document_title: 'H.R. 302 – Preventing a Patronage System Act '
+  congress: 117
+  date_issued: '2022-09-13'
+  file: statements/46-Biden/117/2022-09-13_hr302.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/SAP-HR-302.pdf
+  date_fetched: '2022-09-13T17:12:08.759404'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8326
+  document_title: 'H.R. 8326 – Ensuring a Fair and Accurate Census Act '
+  congress: 117
+  date_issued: '2022-09-13'
+  file: statements/46-Biden/117/2022-09-13_hr8326.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/SAP-HR-8326.pdf
+  date_fetched: '2022-09-13T17:12:08.861324'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2988
+  document_title: 'H.R. 2988 – Whistleblower Protection Improvement Act of 2021 '
+  congress: 117
+  date_issued: '2022-09-13'
+  file: statements/46-Biden/117/2022-09-13_hr2988.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/SAP-HR-2988.pdf
+  date_fetched: '2022-09-13T17:12:08.958668'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5376
   document_title: H.R. 5376 – Inflation Reduction Act of 2022
   congress: 117

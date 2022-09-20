@@ -1,4 +1,13 @@
 - bills:
+  - s1098
+  document_title: 'S.1098 – Joint Consolidation Loan Separation Act '
+  congress: 117
+  date_issued: '2022-09-19'
+  file: statements/46-Biden/117/2022-09-19_s1098.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/SAP-S-1098.pdf
+  date_fetched: '2022-09-20T03:26:13.308150'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr302
   document_title: 'H.R. 302 – Preventing a Patronage System Act '
   congress: 117

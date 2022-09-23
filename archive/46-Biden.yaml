@@ -1,4 +1,40 @@
 - bills:
+  - hr8542
+  document_title: H.R. 8542 – Mental Health Justice Act of 2022
+  congress: 117
+  date_issued: '2022-09-22'
+  file: statements/46-Biden/117/2022-09-22_hr8542.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/HR-8542-SAP.pdf
+  date_fetched: '2022-09-23T03:30:43.655314'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr6448
+  document_title: H.R. 6448 – Invest to Protect Act of 2022
+  congress: 117
+  date_issued: '2022-09-22'
+  file: statements/46-Biden/117/2022-09-22_hr6448.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/SAP-HR-6448.docx.pdf
+  date_fetched: '2022-09-23T03:30:43.702687'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4118
+  document_title: H.R. 4118 – Break the Cycle of Violence Act
+  congress: 117
+  date_issued: '2022-09-22'
+  file: statements/46-Biden/117/2022-09-22_hr4118.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/HR-4118-SAP.pdf
+  date_fetched: '2022-09-23T03:30:43.743598'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr5768
+  document_title: H.R. 5768 – VICTIM Act of 2022
+  congress: 117
+  date_issued: '2022-09-22'
+  file: statements/46-Biden/117/2022-09-22_hr5768.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/SAP-HR-5768.pdf
+  date_fetched: '2022-09-23T03:30:43.783744'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s4822
   document_title: S.4822 – DISCLOSE Act of 2022
   congress: 117

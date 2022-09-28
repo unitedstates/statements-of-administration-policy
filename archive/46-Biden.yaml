@@ -1,4 +1,42 @@
 - bills:
+  - hr6833
+  document_title: H.R. 6833 – Continuing Appropriations and Ukraine Supplemental Appropriations
+    Act, 2023
+  congress: 117
+  date_issued: '2022-09-27'
+  file: statements/46-Biden/117/2022-09-27_hr6833.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/SAP-HR-6833.pdf
+  date_fetched: '2022-09-28T03:25:26.056716'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3843
+  document_title: H.R. 3843 – Merger Filing Fee Modernization Act of 2022
+  congress: 117
+  date_issued: '2022-09-27'
+  file: statements/46-Biden/117/2022-09-27_hr3843.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/H.R.-3843-SAP.pdf
+  date_fetched: '2022-09-28T03:25:26.110327'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr7780
+  document_title: H.R. 7780 – Mental Health Matters Act of 2022
+  congress: 117
+  date_issued: '2022-09-27'
+  file: statements/46-Biden/117/2022-09-27_hr7780.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/H.R.-7780-SAP.pdf
+  date_fetched: '2022-09-28T03:25:26.162278'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - s3969
+  document_title: S. 3969 – Protection and Advocacy for Voting Access Program Inclusion
+    Act
+  congress: 117
+  date_issued: '2022-09-27'
+  file: statements/46-Biden/117/2022-09-27_s3969.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/09/S.-3969-SAP.pdf
+  date_fetched: '2022-09-28T03:25:26.212831'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr8542
   document_title: H.R. 8542 – Mental Health Justice Act of 2022
   congress: 117

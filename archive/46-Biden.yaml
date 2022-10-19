@@ -1,4 +1,14 @@
 - bills:
+  - s4543
+  document_title: S. 4543 – James M. Inhofe National Defense Authorization Act for
+    Fiscal Year 2023
+  congress: 117
+  date_issued: '2022-10-18'
+  file: statements/46-Biden/117/2022-10-18_s4543.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/10/S4543-NDAA-SAP.pdf
+  date_fetched: '2022-10-19T03:26:48.445846'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr6833
   document_title: H.R. 6833 – Continuing Appropriations and Ukraine Supplemental Appropriations
     Act, 2023

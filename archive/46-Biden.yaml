@@ -1,4 +1,22 @@
 - bills:
+  - hr3372
+  document_title: H.R. 3372 – One Stop Shop Community Reentry Program Act of 2021
+  congress: 117
+  date_issued: '2022-12-01'
+  file: statements/46-Biden/117/2022-12-01_hr3372.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/12/HR-3372-SAP.pdf
+  date_fetched: '2022-12-02T02:09:14.459483'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr6878
+  document_title: H.R. 6878 – Pregnant Women in Custody Act
+  congress: 117
+  date_issued: '2022-12-01'
+  file: statements/46-Biden/117/2022-12-01_hr6878.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/12/HR-6878-SAP.pdf
+  date_fetched: '2022-12-02T02:09:14.567328'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hjres100
   document_title: H.J. Res. 100 – To Provide for a Resolution with Respect to the
     Unresolved Disputes between Certain Railroads Represented by the National Carriers’

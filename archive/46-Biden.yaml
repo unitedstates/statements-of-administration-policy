@@ -1,4 +1,23 @@
 - bills:
+  - s4003
+  document_title: S. 4003 – Law Enforcement De-Escalation Training Act of 2022
+  congress: 117
+  date_issued: '2022-12-13'
+  file: statements/46-Biden/117/2022-12-13_s4003.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/12/SAP-S-4003.pdf
+  date_fetched: '2022-12-14T02:12:43.872755'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - s3905
+  document_title: S. 3905 – Preventing Organizational Conflicts of Interest in Federal
+    Acquisition Act
+  congress: 117
+  date_issued: '2022-12-13'
+  file: statements/46-Biden/117/2022-12-13_s3905.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2022/12/S-3905-SAP.pdf
+  date_fetched: '2022-12-14T02:12:44.029551'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3648
   document_title: H.R. 3648 – Equal Access to Green cards for Legal Employment (EAGLE)
     Act of 2022

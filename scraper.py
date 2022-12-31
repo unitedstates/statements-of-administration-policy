@@ -13,6 +13,8 @@ import dateutil.parser
 
 # See https://stackoverflow.com/a/52989487/628748
 
+dashes = re.compile('[—–-]') # em dash, en dash, hyphen
+
 class SAPSpider(scrapy.Spider):
     name = "sap"
 
@@ -45,12 +47,10 @@ class SAPSpider(scrapy.Spider):
             date_issued = re.sub(r",(?=\d)", ", ", date_issued) # a missing space after the comma in the date breaks dateutil.parser, as happened for 46-Biden/117/2021-09-21_hr5305
 
             text = item.find('a').text
-            for split_char in ('—', '–', '-'): # em dash, en dash, hyphen
-            	if split_char in text:
-            		bill_numbers = text.split(split_char)[0].strip()
-            		break
-            else:
-            	raise ValueError("Could not find bill number(s) in document title text.")
+            number_title_split = re.split(dashes, text)
+            if len(number_title_split) <= 1:
+                raise ValueError("Could not find bill number(s) in document title text.")
+            bill_numbers = number_title_split[0].strip()
             bill_numbers = bill_numbers.split(",")
             bill_numbers = [re.sub(r"[\s\.]", "", b.lower()) for b in bill_numbers]
 

@@ -1,4 +1,14 @@
 - bills:
+  - hr23
+  document_title: H.R. 23 – To rescind certain balances made available to the Internal
+    Revenue Service
+  congress: 118
+  date_issued: '2023-01-09'
+  file: statements/46-Biden/118/2023-01-09_hr23.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/01/HR-23-S.A.P..pdf
+  date_fetched: '2023-01-10T02:10:53.965660'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr2617
   document_title: Senate Amendment to H.R. 2617 – Consolidated Appropriations Act,
     2023

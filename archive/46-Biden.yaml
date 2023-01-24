@@ -1,4 +1,13 @@
 - bills:
+  - hr21
+  document_title: H.R. 21 – Strategic Production Response Act (January 23, 2023)
+  congress: 118
+  date_issued: '2023-01-23'
+  file: statements/46-Biden/118/2023-01-23_hr21.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/01/HR-21-SAP.pdf
+  date_fetched: '2023-01-24T02:04:43.204111'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr23
   document_title: H.R. 23 – To rescind certain balances made available to the Internal
     Revenue Service

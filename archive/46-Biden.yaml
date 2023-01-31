@@ -1,4 +1,26 @@
 - bills:
+  - hr497
+  document_title: H.R. 497 – A bill to eliminate the COVID-19 vaccine mandate on health
+    care providers furnishing items and services under certain Federal health care
+    programs
+  congress: 118
+  date_issued: '2023-01-30'
+  file: statements/46-Biden/118/2023-01-30_hr497.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/01/SAP-H.R.-497.pdf
+  date_fetched: '2023-01-31T02:09:54.875739'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr382
+  document_title: H.R. 382 – A bill to terminate the public health emergency declared
+    with respect to COVID-19, H.J. Res. 7 – A joint resolution relating to a national
+    emergency declared by the President on March 13, 2020
+  congress: 118
+  date_issued: '2023-01-30'
+  file: statements/46-Biden/118/2023-01-30_hr382.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/01/SAP-H.R.-382-H.J.-Res.-7.pdf
+  date_fetched: '2023-01-31T02:09:55.023731'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr21
   document_title: H.R. 21 – Strategic Production Response Act (January 23, 2023)
   congress: 118

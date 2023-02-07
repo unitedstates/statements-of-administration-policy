@@ -1,4 +1,16 @@
 - bills:
+  - hjres24
+  document_title: H.J. Res. 24 – Disapproving the Action of the District of Columbia
+    Council in Approving the Local Resident Voting Rights Amendment Act of 2022, H.J.
+    Res. 26 – Disapproving the Action of the District of Columbia Council in Approving
+    the Revised Criminal Code Act of 2022
+  congress: 118
+  date_issued: '2023-02-06'
+  file: statements/46-Biden/118/2023-02-06_hjres24.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/02/SAP-H.J.-Res.-24-and-H.J.-Res.-26_PDF.pdf
+  date_fetched: '2023-02-07T02:04:27.059096'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr497
   document_title: H.R. 497 – A bill to eliminate the COVID-19 vaccine mandate on health
     care providers furnishing items and services under certain Federal health care

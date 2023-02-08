@@ -1,4 +1,15 @@
 - bills:
+  - hr185
+  document_title: H.R. 185 – A bill to terminate the requirement imposed by the Director
+    of the Centers for Disease Control and Prevention for proof of COVID–19 vaccination
+    for foreign travelers, and for other purposes
+  congress: 118
+  date_issued: '2023-02-07'
+  file: statements/46-Biden/118/2023-02-07_hr185.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/02/SAP-H.R.-185-Final.pdf
+  date_fetched: '2023-02-08T02:11:26.220042'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hjres24
   document_title: H.J. Res. 24 – Disapproving the Action of the District of Columbia
     Council in Approving the Local Resident Voting Rights Amendment Act of 2022, H.J.

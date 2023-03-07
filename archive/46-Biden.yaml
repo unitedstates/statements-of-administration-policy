@@ -1,4 +1,16 @@
 - bills:
+  - hjres27
+  document_title: H.J. Res. 27 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the Department of the
+    Army, Corps of Engineers, Department of Defense and the Environmental Protection
+    Agency relating to “Revised Definition of ‘Waters of the United States’”
+  congress: 118
+  date_issued: '2023-03-06'
+  file: statements/46-Biden/118/2023-03-06_hjres27.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/03/HJ-Res-27-SAP.pdf
+  date_fetched: '2023-03-07T02:20:07.177332'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hjres30
   document_title: H.J. Res. 30 – Providing for congressional disapproval under chapter
     8 of title 5, United States Code, of the rule submitted by the Department of Labor

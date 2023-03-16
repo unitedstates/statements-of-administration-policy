@@ -1,4 +1,14 @@
 - bills:
+  - s316
+  document_title: S. 316 – To Repeal the Authorizations for Use of Military Force
+    Against Iraq
+  congress: 118
+  date_issued: '2023-03-16'
+  file: statements/46-Biden/118/2023-03-16_s316.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/03/S316-SAP.pdf
+  date_fetched: '2023-03-16T16:54:51.529354'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hjres27
   document_title: H.J. Res. 27 – Providing for congressional disapproval under chapter
     8 of title 5, United States Code, of the rule submitted by the Department of the

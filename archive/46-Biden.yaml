@@ -1,4 +1,13 @@
 - bills:
+  - hr5
+  document_title: H. R. 5 – Parents Bill of Rights Act
+  congress: 118
+  date_issued: '2023-03-20'
+  file: statements/46-Biden/118/2023-03-20_hr5.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/03/SAP-H.R.-5-Parents-Bill-of-Rights-Act.pdf
+  date_fetched: '2023-03-21T01:53:18.099935'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s316
   document_title: S. 316 – To Repeal the Authorizations for Use of Military Force
     Against Iraq

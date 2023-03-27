@@ -1,4 +1,13 @@
 - bills:
+  - hr1
+  document_title: H.R. 1 – Lower Energy Costs Act
+  congress: 118
+  date_issued: '2023-03-27'
+  file: statements/46-Biden/118/2023-03-27_hr1.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/03/H.R.-1-SAP.pdf
+  date_fetched: '2023-03-27T16:50:34.642633'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5
   document_title: H. R. 5 – Parents Bill of Rights Act
   congress: 118

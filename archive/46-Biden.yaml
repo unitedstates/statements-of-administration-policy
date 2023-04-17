@@ -1,4 +1,24 @@
 - bills:
+  - hr734
+  document_title: H.R. 734 – Protection of Women and Girls in Sports Act of 2023
+  congress: 118
+  date_issued: '2023-04-17'
+  file: statements/46-Biden/118/2023-04-17_hr734.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/04/SAP-HR-734.pdf
+  date_fetched: '2023-04-17T16:50:31.274117'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hjres42
+  document_title: H.J. Res. 42 – Disapproving the Action of the District of Columbia
+    Council in Approving the Comprehensive Policing and Justice Reform Amendment Act
+    of 2022
+  congress: 118
+  date_issued: '2023-04-17'
+  file: statements/46-Biden/118/2023-04-17_hjres42.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/04/SAP_HJ-Res-42.pdf
+  date_fetched: '2023-04-17T16:50:31.409771'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s870
   document_title: S. 870 – Fire Grants and Safety Act
   congress: 118

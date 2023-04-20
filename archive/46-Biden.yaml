@@ -1,4 +1,15 @@
 - bills:
+  - sjres10
+  document_title: S.J. Res. 10 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the Department of Veterans
+    Affairs relating to ‘‘Reproductive Health Services’’
+  congress: 118
+  date_issued: '2023-04-19'
+  file: statements/46-Biden/118/2023-04-19_sjres10.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/04/SAP-SJRes10.pdf
+  date_fetched: '2023-04-20T01:50:26.705773'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr734
   document_title: H.R. 734 – Protection of Women and Girls in Sports Act of 2023
   congress: 118

@@ -49,7 +49,10 @@ class SAPSpider(scrapy.Spider):
             text = item.find('a').text
             number_title_split = re.split(dashes, text)
             if len(number_title_split) <= 1:
-                raise ValueError("Could not find bill number(s) in document title text.")
+                # This would ideally be an exception but there's one with a
+                # bill number: Limit, Save, Grow Act  (April 25, 2023).
+                print(f"Could not find bill number(s) in document title text: '{text}'.")
+                continue
             bill_numbers = number_title_split[0].strip()
             bill_numbers = bill_numbers.split(",")
             bill_numbers = [re.sub(r"[\s\.]", "", b.lower()) for b in bill_numbers]

@@ -1,4 +1,133 @@
 - bills:
+  - hr467
+  document_title: H.R. 467 – Halt All Lethal Trafficking of (HALT) Fentanyl Act
+  congress: 118
+  date_issued: '2023-05-22'
+  file: statements/46-Biden/118/2023-05-22_hr467.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/HR467-SAP.pdf
+  date_fetched: '2023-05-27T01:52:38.066206'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hjres45
+  document_title: H.J. Res. 45 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the Department of Education
+    relating to ‘‘Waivers and Modifications of Federal Student Loans’’
+  congress: 118
+  date_issued: '2023-05-22'
+  file: statements/46-Biden/118/2023-05-22_hjres45.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/HJR45-SAP.pdf
+  date_fetched: '2023-05-27T01:52:38.211589'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - sjres18
+  document_title: S.J. Res. 18 – A joint resolution disapproving of the rule submitted
+    by the Department of Homeland Security relating to “Public Charge Ground of Inadmissibility”
+  congress: 118
+  date_issued: '2023-05-17'
+  file: statements/46-Biden/118/2023-05-17_sjres18.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/SJ-Res-18-SAP-5.17.23.pdf
+  date_fetched: '2023-05-27T01:52:38.354446'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2494
+  document_title: H.R. 2494 – Protect Our Law Enforcement with Immigration Control
+    and Enforcement (POLICE) Act
+  congress: 118
+  date_issued: '2023-05-17'
+  file: statements/46-Biden/118/2023-05-17_hr2494.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/SAP_H.R.-2494.pdf
+  date_fetched: '2023-05-27T01:52:38.492388'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3091
+  document_title: H.R. 3091 – Federal Law Enforcement Officer Service Weapon Purchase
+    Act
+  congress: 118
+  date_issued: '2023-05-17'
+  file: statements/46-Biden/118/2023-05-17_hr3091.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/SAP_H.R.-3091.pdf
+  date_fetched: '2023-05-27T01:52:38.629737'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - sjres23
+  document_title: S.J. Res. 23 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the National Marine
+    Fisheries Service relating to “Endangered and Threatened Wildlife and Plants;
+    Regulations for Listing Endangered and Threatened Species and Designating Critical
+    Habitat”
+  congress: 118
+  date_issued: '2023-05-11'
+  file: statements/46-Biden/118/2023-05-11_sjres23.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/SAP-S.J.-Res.-23.pdf
+  date_fetched: '2023-05-27T01:52:38.767192'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - sjres24
+  document_title: S.J. Res. 24 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the United States Fish
+    and Wildlife Service relating to “Endangered and Threatened Wildlife and Plants;
+    Endangered Species Status for Northern Long-Eared Bat”
+  congress: 118
+  date_issued: '2023-05-11'
+  file: statements/46-Biden/118/2023-05-11_sjres24.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/SAP-S.J.Res_.-24.pdf
+  date_fetched: '2023-05-27T01:52:38.919025'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2
+  document_title: H.R. 2 – Secure the Border Act of 2023
+  congress: 118
+  date_issued: '2023-05-08'
+  file: statements/46-Biden/118/2023-05-08_hr2.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/SAP-H.R.-2.pdf
+  date_fetched: '2023-05-27T01:52:39.068944'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr1163
+  document_title: H.R. 1163 – Protecting Taxpayers and Victims of Unemployment Fraud
+    Act
+  congress: 118
+  date_issued: '2023-05-08'
+  file: statements/46-Biden/118/2023-05-08_hr1163.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/H.R.-1163-SAP.pdf
+  date_fetched: '2023-05-27T01:52:39.213910'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - sjres9
+  document_title: S.J. Res. 9 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the United States Fish
+    and Wildlife Service relating to “Endangered and Threatened Wildlife and Plants;
+    Lesser Prairie-Chicken; Threatened Status with Section 4(d) Rule for the Northern
+    Distinct Population Segment and Endangered Status for the Southern Distinct Population
+    Segment”
+  congress: 118
+  date_issued: '2023-05-03'
+  file: statements/46-Biden/118/2023-05-03_sjres9.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/SJRes-9-SAP.pdf
+  date_fetched: '2023-05-27T01:52:39.357329'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - sjres4
+  document_title: S.J. Res. 4 – A Joint Resolution removing the deadline for the ratification
+    of the Equal Rights Amendment
+  congress: 118
+  date_issued: '2023-04-27'
+  file: statements/46-Biden/118/2023-04-27_sjres4.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/04/SJRes-4-SAP.pdf
+  date_fetched: '2023-05-27T01:52:39.504268'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - sjres11
+  document_title: 'S.J. Res. 11 – A Joint Resolution Providing for Congressional Disapproval
+    of the Rule Submitted by the Environmental Protection Agency Relating to “Control
+    of Air Pollution from New Motor Vehicles: Heavy-Duty Engine and Vehicle Standards”'
+  congress: 118
+  date_issued: '2023-04-26'
+  file: statements/46-Biden/118/2023-04-26_sjres11.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/04/SAP-SJRes-11.pdf
+  date_fetched: '2023-05-27T01:52:39.650434'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hjres39
   document_title: H.J. Res. 39 – A Joint Resolution Disapproving the Rule Submitted
     by the Department of Commerce relating to “Procedures Covering Suspension of Liquidation,

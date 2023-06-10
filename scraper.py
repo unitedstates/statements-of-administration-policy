@@ -102,14 +102,30 @@ class SAPPipeline:
         # Save here.
         self.fn = "archive/" + spider.AdministrationCode + ".yaml"
 
-        # Don't update date_fetched when we don't download a PDF, so
-        # pull in the existing fetch date for files we already have
-        # so that we can pull the dates forward.
+        # Read an existing metadata file if it exists.
         self.file_date_fetched = { }
+        self.rescinded = [ ]
         if os.path.exists(self.fn):
             with open(self.fn) as f:
-                for item in rtyaml.load(f):
+                existing_items = rtyaml.load(f)
+                for i, item in enumerate(existing_items):
+                    # In order to not update date_fetched when we don't download
+                    # a PDF, we need the previously set value so we can pull it forward.
                     self.file_date_fetched[item["file"]] = item["date_fetched"]
+
+                    # Very rarely (once?) a SAP disappears. If we manually mark it as
+                    # rescinded, we'll re-insert it into the newly scraped data.
+                    # Keep the rescinded items and ordering information so we can
+                    # insert it into the right place.
+                    if item.get("rescinded"):
+                        self.rescinded.append({
+                            "item": item,
+                            "order": {
+                                jitem["file"]: (i < j)
+                                for j, jitem in enumerate(existing_items)
+                                if i != j
+                            }
+                        })
 
     def process_item(self, item, spider):
         # Construct a filename for saving the SAP PDF and put
@@ -145,6 +161,19 @@ class SAPPipeline:
         self.data.append(dict(item))
 
     def close_spider(self, spider):
+        # Add back any resinded items.
+        for item in self.rescinded:
+            # Find the best index to insert it at using the
+            # ordering information stored when we loaded it.
+            # Find the index that agrees most with the original
+            # sorted order, treating new items has coming before.
+            index = max(range(len(self.data) + 1),
+                key = lambda i : sum([
+                    (1 if (i <= j) == item["order"].get(jitem["file"], False) else -1)
+                    for j, jitem in enumerate(self.data)
+                ]))
+            self.data.insert(index, item["item"])
+
         # Save to YAML file.
         with open(self.fn, "w") as f:
             rtyaml.dump(self.data, f)

@@ -53,6 +53,7 @@ Notes:
 * Each Statement of Administration Policy may relate to more than one bill, although this is uncommon.
 * Bill IDs are given in the same format as `bill_id`s in the congress project scraper (see [https://github.com/unitedstates/congress/wiki/bills](https://github.com/unitedstates/congress/wiki/bills)), except that the Congress number is stored in a separate field.
 * The `fetched_from_url` may be invalid after the end of the administration but may be resolvable on the Internet Archive Wayback Machine.
+* Rarely a `rescinded` flag may be set if the PDF disappears from the White House website during the Administration.
 
 ### PDFs
 

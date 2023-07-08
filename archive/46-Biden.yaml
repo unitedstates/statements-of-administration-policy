@@ -7,6 +7,7 @@
   fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/05/SAP-H.R.-3746.pdf
   date_fetched: '2023-05-30T16:50:35.849346'
   source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+  rescinded: true
 - bills:
   - hr467
   document_title: H.R. 467 – Halt All Lethal Trafficking of (HALT) Fentanyl Act

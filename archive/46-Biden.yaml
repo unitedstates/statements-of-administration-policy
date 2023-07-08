@@ -1,4 +1,63 @@
 - bills:
+  - hr3564
+  document_title: H.R. 3564 – Middle Class Borrower Protection Act of 2023
+  congress: 118
+  date_issued: '2023-06-23'
+  file: statements/46-Biden/118/2023-06-23_hr3564.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/06/SAP-H.R.-3564.pdf
+  date_fetched: '2023-07-08T10:13:03.629328'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3799
+  document_title: H.R. 3799 – CHOICE Arrangement Act
+  congress: 118
+  date_issued: '2023-06-21'
+  file: statements/46-Biden/118/2023-06-21_hr3799.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/06/SAP-H.R.-3799.pdf
+  date_fetched: '2023-07-08T10:13:03.629733'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hjres44
+  document_title: 'H.J. Res. 44 – A joint resolution providing for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau
+    of Alcohol, Tobacco, Firearms and Explosives relating to “Factoring Criteria for
+    Firearms with Attached ‘Stabilizing Braces''” '
+  congress: 118
+  date_issued: '2023-06-12'
+  file: statements/46-Biden/118/2023-06-12_hjres44.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/06/SAP-HJRes44.pdf
+  date_fetched: '2023-07-08T10:13:03.630090'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr1615
+  document_title: H.R. 1615 – Gas Stove Protection and Freedom Act, H.R. 1640 – Save
+    Our Stoves Act
+  congress: 118
+  date_issued: '2023-06-06'
+  file: statements/46-Biden/118/2023-06-06_hr1615.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/06/SAP-HR-1615-1640.pdf
+  date_fetched: '2023-07-08T10:13:03.630345'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr288
+  document_title: H.R. 288 – Separation of Powers Restoration Act of 2023
+  congress: 118
+  date_issued: '2023-06-06'
+  file: statements/46-Biden/118/2023-06-06_hr288.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/06/SAP-H.R.-288.docx.pdf
+  date_fetched: '2023-07-08T10:13:03.630579'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr277
+  document_title: H.R. 277 – Regulations from the Executive in Need of Scrutiny Act
+    of 2023
+  congress: 118
+  date_issued: '2023-06-06'
+  file: statements/46-Biden/118/2023-06-06_hr277.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/06/SAP-H.R.-277.pdf
+  date_fetched: '2023-07-08T10:13:03.630809'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3746
   document_title: H.R. 3746 – Fiscal Responsibility Act of 2023
   congress: 118

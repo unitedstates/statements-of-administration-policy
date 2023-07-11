@@ -1,4 +1,13 @@
 - bills:
+  - hr2670
+  document_title: H.R. 2670 – NDAA
+  congress: 118
+  date_issued: '2023-07-10'
+  file: statements/46-Biden/118/2023-07-10_hr2670.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/07/H.R.-2670-NDAA.pdf
+  date_fetched: '2023-07-11T02:11:56.255124'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3564
   document_title: H.R. 3564 – Middle Class Borrower Protection Act of 2023
   congress: 118

@@ -1,4 +1,13 @@
 - bills:
+  - hr3941
+  document_title: H.R. 3941 – Schools Not Shelters Act of 2023
+  congress: 118
+  date_issued: '2023-07-19'
+  file: statements/46-Biden/118/2023-07-19_hr3941.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/07/SAP-HR-3941.pdf
+  date_fetched: '2023-07-19T16:50:38.440519'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s2226
   document_title: S. 2226 – National Defense Authorization Act for Fiscal Year 2024
   congress: 118

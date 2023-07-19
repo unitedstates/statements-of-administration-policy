@@ -1,4 +1,13 @@
 - bills:
+  - s2226
+  document_title: S. 2226 – National Defense Authorization Act for Fiscal Year 2024
+  congress: 118
+  date_issued: '2023-07-18'
+  file: statements/46-Biden/118/2023-07-18_s2226.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/07/S-2226_NDAA-SAP-7.18.pdf
+  date_fetched: '2023-07-19T03:14:36.788772'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3935
   document_title: H.R. 3935 – Securing Growth and Robust Leadership in American Aviation
     Act

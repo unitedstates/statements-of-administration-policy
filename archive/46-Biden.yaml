@@ -1,4 +1,13 @@
 - bills:
+  - s2226
+  document_title: S. 2226 – National Defense Authorization Act for Fiscal Year 2024
+  congress: 118
+  date_issued: '2023-07-27'
+  file: statements/46-Biden/118/2023-07-27_s2226.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/07/S2226-NDAA-SAP-Followon.pdf
+  date_fetched: '2023-07-28T01:49:17.472514'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4368
   document_title: H.R. 4368 — Agriculture, Rural Development, Food and Drug Administration,
     and Related Agencies Appropriations Act, 2024

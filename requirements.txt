@@ -2,3 +2,4 @@ scrapy
 bs4
 rtyaml
 python-dateutil
+pyopenssl>22.1.0 # https://stackoverflow.com/q/74981558

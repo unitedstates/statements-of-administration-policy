@@ -7,7 +7,7 @@ on:
 
   # Also run on push. Fortunately GitHub Actions doesn't trigger this
   # from the push that this action itself pushes!
-  #push:
+  push:
 jobs:
   run_scraper_and_push:
     name: Run scraper and push all changed and new files

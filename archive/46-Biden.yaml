@@ -1,4 +1,13 @@
 - bills:
+  - hr4366
+  document_title: H.R. 4366 — Consolidated Appropriations Act, 2024
+  congress: 118
+  date_issued: '2023-09-13'
+  file: statements/46-Biden/118/2023-09-13_hr4366.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/09/FY-2024-SAP-Senate-Minibus-Final-PDF-9-13-23.pdf
+  date_fetched: '2023-09-13T16:50:33.372835'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr1435
   document_title: H.R. 1435 – Preserving Choice in Vehicle Purchases Act
   congress: 118

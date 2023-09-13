@@ -1,4 +1,13 @@
 - bills:
+  - hr1435
+  document_title: H.R. 1435 – Preserving Choice in Vehicle Purchases Act
+  congress: 118
+  date_issued: '2023-09-12'
+  file: statements/46-Biden/118/2023-09-12_hr1435.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/09/HR-1435-SAP.pdf
+  date_fetched: '2023-09-13T01:37:03.183069'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4365
   document_title: 'H.R. 4365  — Department of Defense Appropriations Act, 2024 '
   congress: 118

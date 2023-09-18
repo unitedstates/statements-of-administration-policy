@@ -1,4 +1,13 @@
 - bills:
+  - hr1130
+  document_title: H.R. 1130 – Unlocking our Domestic LNG Potential Act of 2023
+  congress: 118
+  date_issued: '2023-09-18'
+  file: statements/46-Biden/118/2023-09-18_hr1130.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/09/HR1130-SAP.pdf
+  date_fetched: '2023-09-18T16:50:31.920985'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4366
   document_title: H.R. 4366 — Consolidated Appropriations Act, 2024
   congress: 118

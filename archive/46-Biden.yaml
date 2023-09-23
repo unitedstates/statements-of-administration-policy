@@ -1,4 +1,24 @@
 - bills:
+  - hr4665
+  document_title: H.R. 4665 — Department of State, Foreign Operations, and Related
+    Programs Appropriations Act, 2024
+  congress: 118
+  date_issued: '2023-09-22'
+  file: statements/46-Biden/118/2023-09-22_hr4665.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/09/H.R.-4665-—-Department-of-State-Foreign-Operations-and-Related-Programs-Appropriations-Act-2024-PDF.pdf
+  date_fetched: '2023-09-23T01:33:51.495082'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4367
+  document_title: H.R. 4367 — Department of Homeland Security Appropriations Act,
+    2024
+  congress: 118
+  date_issued: '2023-09-22'
+  file: statements/46-Biden/118/2023-09-22_hr4367.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/09/H.R.-4367-—-Department-of-Homeland-Security-Appropriations-Act-2024-PDF.pdf
+  date_fetched: '2023-09-23T01:33:51.588124'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr1130
   document_title: H.R. 1130 – Unlocking our Domestic LNG Potential Act of 2023
   congress: 118

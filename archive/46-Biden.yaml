@@ -1,4 +1,13 @@
 - bills:
+  - hr5525
+  document_title: H.R. 5525 — Spending Reduction and Border Security Act, 2024
+  congress: 118
+  date_issued: '2023-09-29'
+  file: statements/46-Biden/118/2023-09-29_hr5525.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/09/H.R.-5525-—-Spending-Reduction-and-Border-Security-Act-2024.pdf
+  date_fetched: '2023-09-29T16:50:33.573161'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4665
   document_title: H.R. 4665 — Department of State, Foreign Operations, and Related
     Programs Appropriations Act, 2024

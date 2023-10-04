@@ -1,4 +1,14 @@
 - bills:
+  - hr4394
+  document_title: H.R. 4394 — Energy and Water Development and Related Agencies Appropriations
+    Act, 2024
+  congress: 118
+  date_issued: '2023-10-03'
+  file: statements/46-Biden/118/2023-10-03_hr4394.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/10/H.R.-4394-Energy-and-Water-Development-and-Related-Agencies-Appropriations-Act-2024.pdf
+  date_fetched: '2023-10-04T01:39:04.906220'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5525
   document_title: H.R. 5525 — Spending Reduction and Border Security Act, 2024
   congress: 118

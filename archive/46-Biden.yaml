@@ -1,4 +1,24 @@
 - bills:
+  - hr4821
+  document_title: H.R. 4821 — Department of the Interior, Environment, and Related
+    Agencies Appropriations Act, 2024
+  congress: 118
+  date_issued: '2023-10-30'
+  file: statements/46-Biden/118/2023-10-30_hr4821.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/10/H.R.-4821-Department-of-the-Interior-Environment-and-Related-Agencies-Appropriations-Act-2024-FINAL.pdf
+  date_fetched: '2023-10-31T01:38:24.055563'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4820
+  document_title: 'H.R. 4820 — Transportation, Housing and Urban Development, and
+    Related Agencies Appropriations Act, 2024 '
+  congress: 118
+  date_issued: '2023-10-30'
+  file: statements/46-Biden/118/2023-10-30_hr4820.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/10/H.R.-4820-Transportation-Housing-and-Urban-Development-and-Related-Agencies-Appropriations-Act-2024-Final.pdf
+  date_fetched: '2023-10-31T01:38:24.199362'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres42
   document_title: S.J. Res. 42 – A joint resolution providing for congressional disapproval
     under chapter 8 of title 5, United States Code, of the rule submitted by the Food

@@ -1,4 +1,24 @@
 - bills:
+  - hr5893
+  document_title: H.R. 5893 — Commerce, Justice, Science, and Related Agencies Appropriations
+    Act, 2024
+  congress: 118
+  date_issued: '2023-11-13'
+  file: statements/46-Biden/118/2023-11-13_hr5893.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/11/H.R.-5893-—-Commerce-Justice-Science-and-Related-Agencies-Appropriations-Act-2024.pdf
+  date_fetched: '2023-11-14T01:39:38.493541'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr5894
+  document_title: H.R. 5894 — Departments of Labor, Health and Human Services, and
+    Education, and Related Agencies Appropriations Act, 2024
+  congress: 118
+  date_issued: '2023-11-13'
+  file: statements/46-Biden/118/2023-11-13_hr5894.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/11/H.R.-5894-—-Departments-of-Labor-Health-and-Human-Services-and-Education-and-Related-Agencies-Appropriations-Act-2024-SAP-Final.pdf
+  date_fetched: '2023-11-14T01:39:38.541536'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres38
   document_title: S.J. Res. 38 – A joint resolution providing for congressional disapproval
     under chapter 8 of title 5, United States Code, of the rule submitted by the Federal

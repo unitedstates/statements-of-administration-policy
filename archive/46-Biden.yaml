@@ -1,4 +1,14 @@
 - bills:
+  - hr5283
+  document_title: H.R. 5283 – Protecting our Communities from Failure to Secure the
+    Border Act of 2023
+  congress: 118
+  date_issued: '2023-11-27'
+  file: statements/46-Biden/118/2023-11-27_hr5283.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/11/HR5283-SAP.pdf
+  date_fetched: '2023-11-27T16:50:29.841639'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres43
   document_title: S.J. Res. 43 – Providing for congressional disapproval under chapter
     8 of title 5, United States Code, of the rule submitted by the Department of Education

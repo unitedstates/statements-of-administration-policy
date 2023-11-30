@@ -1,4 +1,16 @@
 - bills:
+  - sjres47
+  document_title: S.J. Res. 47 – A joint resolution providing for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by the Department
+    of Justice relating to “Office of the Attorney General; Home Confinement Under
+    the Coronavirus Aid, Relief, and Economic Security (CARES) Act”
+  congress: 118
+  date_issued: '2023-11-29'
+  file: statements/46-Biden/118/2023-11-29_sjres47.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/11/SAP-SJRes-47.pdf
+  date_fetched: '2023-11-30T01:42:34.820838'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr5283
   document_title: H.R. 5283 – Protecting our Communities from Failure to Secure the
     Border Act of 2023

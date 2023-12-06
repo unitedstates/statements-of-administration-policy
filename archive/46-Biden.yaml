@@ -1,4 +1,14 @@
 - bills:
+  - hr815
+  document_title: Senate Amendment to H.R. 815 – National Security and Border Act,
+    2024
+  congress: 118
+  date_issued: '2023-12-06'
+  file: statements/46-Biden/118/2023-12-06_hr815.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/12/Senate-Amendment-to-H.R.-815-–-National-Security-and-Border-Act-2024-SAP.pdf
+  date_fetched: '2023-12-06T16:50:31.056152'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4468
   document_title: H.R. 4468 – Choice in Automobile Retail Sales Act
   congress: 118

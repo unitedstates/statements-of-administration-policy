@@ -1,4 +1,13 @@
 - bills:
+  - hr357
+  document_title: H.R. 357 – Ensuring Accountability in Agency Rulemaking Act
+  congress: 118
+  date_issued: '2023-12-11'
+  file: statements/46-Biden/118/2023-12-11_hr357.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/12/SAP-HR-357.pdf
+  date_fetched: '2023-12-11T16:50:29.361594'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr815
   document_title: Senate Amendment to H.R. 815 – National Security and Border Act,
     2024

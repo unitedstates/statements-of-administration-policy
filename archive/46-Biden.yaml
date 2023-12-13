@@ -1,4 +1,13 @@
 - bills:
+  - hr2670
+  document_title: H.R. 2670 – National Defense Authorization Act for Fiscal Year 2024
+  congress: 118
+  date_issued: '2023-12-12'
+  file: statements/46-Biden/118/2023-12-12_hr2670.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2023/12/SAP-NDAA-Conf-Report.pdf
+  date_fetched: '2023-12-13T01:43:13.651853'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr357
   document_title: H.R. 357 – Ensuring Accountability in Agency Rulemaking Act
   congress: 118

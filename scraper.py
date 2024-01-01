@@ -35,7 +35,7 @@ class SAPSpider(scrapy.Spider):
         con = soup.find('section', {'class': 'body-content'})
         con = con.find('div', {'class': 'container'})
         con = con.find('div', {'class': 'row'})
-        ps = con.findAllNext('p')[1:]
+        ps = con.findAllNext('p')#[1:]
 
         for item in ps:
             if not item.find("a"): continue

@@ -1,4 +1,24 @@
 - bills:
+  - hjres98
+  document_title: H.J. Res. 98 – A joint resolution providing for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by the National
+    Labor Relations Board relating to a “Standard for Determining Joint Employer Status”
+  congress: 118
+  date_issued: '2024-01-08'
+  file: statements/46-Biden/118/2024-01-08_hjres98.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/01/HJRes-98-SAP.pdf
+  date_fetched: '2024-01-09T01:43:38.906678'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr788
+  document_title: H.R. 788 – Stop Settlement Slush Funds Act of 2023
+  congress: 118
+  date_issued: '2024-01-08'
+  file: statements/46-Biden/118/2024-01-08_hr788.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/01/SAP-HR-788.pdf
+  date_fetched: '2024-01-09T01:43:38.956720'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr2670
   document_title: H.R. 2670 – National Defense Authorization Act for Fiscal Year 2024
   congress: 118

@@ -1,4 +1,23 @@
 - bills:
+  - hr6918
+  document_title: H.R. 6918 – Supporting Pregnant and Parenting Women and Families
+    Act
+  congress: 118
+  date_issued: '2024-01-16'
+  file: statements/46-Biden/118/2024-01-16_hr6918.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/01/SAP-HR-6918.pdf
+  date_fetched: '2024-01-16T16:50:29.813881'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr6914
+  document_title: H.R. 6914 – Pregnant Students’ Rights Act
+  congress: 118
+  date_issued: '2024-01-16'
+  file: statements/46-Biden/118/2024-01-16_hr6914.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/01/SAP-HR-6914.pdf
+  date_fetched: '2024-01-16T16:50:29.884077'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hjres98
   document_title: H.J. Res. 98 – A joint resolution providing for congressional disapproval
     under chapter 8 of title 5, United States Code, of the rule submitted by the National

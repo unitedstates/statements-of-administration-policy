@@ -1,4 +1,14 @@
 - bills:
+  - hres863
+  document_title: H. Res. 863 – Resolution Impeaching Secretary of Homeland Security
+    Alejandro Mayorkas
+  congress: 118
+  date_issued: '2024-02-05'
+  file: statements/46-Biden/118/2024-02-05_hres863.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/02/SAP-HRes-863-1.pdf
+  date_fetched: '2024-02-06T01:34:59.304048'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr7217
   document_title: H.R. 7217 -Israel Security Supplemental Appropriations Act, 2024
   congress: 118

@@ -1,4 +1,32 @@
 - bills:
+  - hr7217
+  document_title: H.R. 7217 -Israel Security Supplemental Appropriations Act, 2024
+  congress: 118
+  date_issued: '2024-02-05'
+  file: statements/46-Biden/118/2024-02-05_hr7217.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/02/H.R.-7217-Israel-Security-Supplemental-Appropriations-Act-2024-SAP.pdf
+  date_fetched: '2024-02-06T01:34:59.247245'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hres863
+  document_title: H. Res. 863 – Resolution Impeaching Secretary of Homeland Security
+    Alejandro Mayorkas
+  congress: 118
+  date_issued: '2024-02-05'
+  file: statements/46-Biden/118/2024-02-05_hres863.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/02/SAP-HRes-863.pdf
+  date_fetched: '2024-02-06T01:34:59.304048'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr485
+  document_title: H.R. 485 – Protecting Health Care for All Patients Act of 2023
+  congress: 118
+  date_issued: '2024-02-05'
+  file: statements/46-Biden/118/2024-02-05_hr485.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/02/SAP-HR-485.pdf
+  date_fetched: '2024-02-06T01:34:59.363208'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres50
   document_title: S.J. Res. 50 – Congressional Disapproval of the Rule Submitted by
     the Securities and Exchange Commission (SEC) relating to “Cybersecurity Risk Management,

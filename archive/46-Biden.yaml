@@ -1,4 +1,14 @@
 - bills:
+  - hr815
+  document_title: Senate Amendment to H.R. 815 – Emergency National Security Supplemental
+    Appropriations Act, 2024
+  congress: 118
+  date_issued: '2024-02-07'
+  file: statements/46-Biden/118/2024-02-07_hr815.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/02/Senate-Amendment-to-H.R.-815-–-Emergency-National-Security-Supplemental-Appropriations-Act-2024-SAP.pdf
+  date_fetched: '2024-02-08T01:34:23.367068'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hres863
   document_title: H. Res. 863 – Resolution Impeaching Secretary of Homeland Security
     Alejandro Mayorkas

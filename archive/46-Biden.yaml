@@ -1,4 +1,13 @@
 - bills:
+  - hr7176
+  document_title: H.R. 7176 – Unlocking our Domestic LNG Potential Act of 2024
+  congress: 118
+  date_issued: '2024-02-13'
+  file: statements/46-Biden/118/2024-02-13_hr7176.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/02/SAP-HR7176.pdf
+  date_fetched: '2024-02-14T01:36:18.048241'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr815
   document_title: Senate Amendment to H.R. 815 – Emergency National Security Supplemental
     Appropriations Act, 2024

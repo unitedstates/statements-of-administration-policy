@@ -1,4 +1,13 @@
 - bills:
+  - hr2799
+  document_title: 'H.R. 2799 – Expanding Access to Capital Act of 2023 '
+  congress: 118
+  date_issued: '2024-03-04'
+  file: statements/46-Biden/118/2024-03-04_hr2799.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-HR2799.pdf
+  date_fetched: '2024-03-04T16:50:38.914406'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr7176
   document_title: H.R. 7176 – Unlocking our Domestic LNG Potential Act of 2024
   congress: 118

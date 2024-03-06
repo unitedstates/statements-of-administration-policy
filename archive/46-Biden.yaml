@@ -1,4 +1,13 @@
 - bills:
+  - hr4366
+  document_title: H. R. 4366— Consolidated Appropriations Act, 2024
+  congress: 118
+  date_issued: '2024-03-05'
+  file: statements/46-Biden/118/2024-03-05_hr4366.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/H.-R.-4366—-Consolidated-Appropriations-Act-2024-SAP.pdf
+  date_fetched: '2024-03-06T01:35:14.811127'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr2799
   document_title: 'H.R. 2799 – Expanding Access to Capital Act of 2023 '
   congress: 118

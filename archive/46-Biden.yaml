@@ -1,4 +1,13 @@
 - bills:
+  - s3853
+  document_title: S. 3853 – Radiation Exposure Compensation Reauthorization Act
+  congress: 118
+  date_issued: '2024-03-06'
+  file: statements/46-Biden/118/2024-03-06_s3853.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-S3853.pdf
+  date_fetched: '2024-03-07T01:21:26.464062'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4366
   document_title: H. R. 4366— Consolidated Appropriations Act, 2024
   congress: 118

@@ -1,4 +1,14 @@
 - bills:
+  - hr6276
+  document_title: H.R. 6276 -Utilizing Space Efficiently and Improving Technologies
+    (USE IT) Act of 2023
+  congress: 118
+  date_issued: '2024-03-11'
+  file: statements/46-Biden/118/2024-03-11_hr6276.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-HR6276.pdf
+  date_fetched: '2024-03-11T16:50:47.175494'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s3853
   document_title: S. 3853 – Radiation Exposure Compensation Reauthorization Act
   congress: 118

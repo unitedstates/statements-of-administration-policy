@@ -1,4 +1,31 @@
 - bills:
+  - hr1121
+  document_title: H.R. 1121 – Protecting American Energy Production Act
+  congress: 118
+  date_issued: '2024-03-18'
+  file: statements/46-Biden/118/2024-03-18_hr1121.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-HR-1121.pdf
+  date_fetched: '2024-03-18T16:50:24.622863'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr6009
+  document_title: H.R. 6009 -Restoring American Energy Dominance Act
+  congress: 118
+  date_issued: '2024-03-18'
+  file: statements/46-Biden/118/2024-03-18_hr6009.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-HR-6009.pdf
+  date_fetched: '2024-03-18T16:50:24.659508'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr7023
+  document_title: H.R. 7023 – Creating Confidence in Clean Water Permitting Act
+  congress: 118
+  date_issued: '2024-03-18'
+  file: statements/46-Biden/118/2024-03-18_hr7023.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-HR-7023.pdf
+  date_fetched: '2024-03-18T16:50:24.695173'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr6276
   document_title: H.R. 6276 -Utilizing Space Efficiently and Improving Technologies
     (USE IT) Act of 2023

@@ -1,4 +1,25 @@
 - bills:
+  - sjres62
+  document_title: S.J. Res. 62 – A joint resolution providing for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by the Animal
+    and Plant Health Inspection Service relating to “Importation of Fresh Beef From
+    Paraguay”
+  congress: 118
+  date_issued: '2024-03-19'
+  file: statements/46-Biden/118/2024-03-19_sjres62.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/SJRES-62-SAP.pdf
+  date_fetched: '2024-03-19T16:50:30.107914'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr1023
+  document_title: H.R. 1023 – Cutting Green Corruption and Taxes Act
+  congress: 118
+  date_issued: '2024-03-19'
+  file: statements/46-Biden/118/2024-03-19_hr1023.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-HR1023.pdf
+  date_fetched: '2024-03-19T16:50:30.168463'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr1121
   document_title: H.R. 1121 – Protecting American Energy Production Act
   congress: 118

@@ -1,4 +1,13 @@
 - bills:
+  - hr4639
+  document_title: H.R. 4639 – Fourth Amendment Is Not For Sale Act
+  congress: 118
+  date_issued: '2024-04-16'
+  file: statements/46-Biden/118/2024-04-16_hr4639.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/04/SAP-HR4639.pdf
+  date_fetched: '2024-04-17T01:37:31.747425'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr7888
   document_title: H.R. 7888 –Reforming Intelligence and Securing America Act
   congress: 118

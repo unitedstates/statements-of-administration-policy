@@ -1,4 +1,14 @@
 - bills:
+  - hr815
+  document_title: House Amendment to H.R. 815 – Emergency National Security Supplemental
+    Appropriations Act, 2024
+  congress: 118
+  date_issued: '2024-04-19'
+  file: statements/46-Biden/118/2024-04-19_hr815.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/04/House-Amendment-to-H.R.-815-Emergency-National-SAP-Final-Version.pdf
+  date_fetched: '2024-04-19T16:50:39.488813'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4639
   document_title: H.R. 4639 – Fourth Amendment Is Not For Sale Act
   congress: 118

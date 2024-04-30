@@ -1,4 +1,58 @@
 - bills:
+  - hr615
+  document_title: H.R. 615 – Protecting Access for Hunters and Anglers Act of 2023
+  congress: 118
+  date_issued: '2024-04-29'
+  file: statements/46-Biden/118/2024-04-29_hr615.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/04/SAP-HR615.pdf
+  date_fetched: '2024-04-30T01:39:13.636780'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr6285
+  document_title: H.R. 6285 – Alaska’s Right to Produce Act of 2023
+  congress: 118
+  date_issued: '2024-04-29'
+  file: statements/46-Biden/118/2024-04-29_hr6285.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/04/SAP-HR6285.pdf
+  date_fetched: '2024-04-30T01:39:13.673194'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3397
+  document_title: H.R. 3397 – WEST Act of 2024
+  congress: 118
+  date_issued: '2024-04-29'
+  file: statements/46-Biden/118/2024-04-29_hr3397.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/04/SAP-HR3397.pdf
+  date_fetched: '2024-04-30T01:39:13.708918'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3195
+  document_title: H.R. 3195 – Superior National Forest Restoration Act
+  congress: 118
+  date_issued: '2024-04-29'
+  file: statements/46-Biden/118/2024-04-29_hr3195.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/04/SAP-HR3195.pdf
+  date_fetched: '2024-04-30T01:39:13.746007'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr2925
+  document_title: H.R. 2925 – Mining Regulatory Clarity Act
+  congress: 118
+  date_issued: '2024-04-29'
+  file: statements/46-Biden/118/2024-04-29_hr2925.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/04/SAP-HR2925.pdf
+  date_fetched: '2024-04-30T01:39:13.782387'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr764
+  document_title: H.R. 764 – Trust the Science Act
+  congress: 118
+  date_issued: '2024-04-29'
+  file: statements/46-Biden/118/2024-04-29_hr764.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/04/SAP-HR764.pdf
+  date_fetched: '2024-04-30T01:39:13.821222'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr815
   document_title: House Amendment to H.R. 815 – Emergency National Security Supplemental
     Appropriations Act, 2024

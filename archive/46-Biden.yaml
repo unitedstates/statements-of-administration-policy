@@ -1,4 +1,22 @@
 - bills:
+  - hr7109
+  document_title: H.R. 7109 -Equal Representation Act
+  congress: 118
+  date_issued: '2024-05-06'
+  file: statements/46-Biden/118/2024-05-06_hr7109.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/05/SAP-HR7109.pdf
+  date_fetched: '2024-05-07T01:41:59.660497'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr6192
+  document_title: H.R. 6192 – Hands Off Our Home Appliances Act
+  congress: 118
+  date_issued: '2024-05-06'
+  file: statements/46-Biden/118/2024-05-06_hr6192.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/05/SAP-HR6192.pdf
+  date_fetched: '2024-05-07T01:41:59.704029'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr615
   document_title: H.R. 615 – Protecting Access for Hunters and Anglers Act of 2023
   congress: 118

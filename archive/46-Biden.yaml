@@ -1,4 +1,14 @@
 - bills:
+  - hjres109
+  document_title: H.J. Res. 109 – Congressional Disapproval of “Staff Accounting Bulletin
+    No. 121” Issued by the Securities and Exchange Commission
+  congress: 118
+  date_issued: '2024-05-08'
+  file: statements/46-Biden/118/2024-05-08_hjres109.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/05/SAP-HJRes109.pdf
+  date_fetched: '2024-05-08T16:50:37.774815'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr7109
   document_title: H.R. 7109 -Equal Representation Act
   congress: 118

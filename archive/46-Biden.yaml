@@ -1,4 +1,14 @@
 - bills:
+  - hr3935
+  document_title: Senate Substitute Amendment to H.R. 3935- FAA Reauthorization Act
+    of 2024
+  congress: 118
+  date_issued: '2024-05-09'
+  file: statements/46-Biden/118/2024-05-09_hr3935.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/05/SAP-SSA-HR3935.pdf
+  date_fetched: '2024-05-09T16:50:29.239367'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hjres109
   document_title: H.J. Res. 109 – Congressional Disapproval of “Staff Accounting Bulletin
     No. 121” Issued by the Securities and Exchange Commission

@@ -1,4 +1,22 @@
 - bills:
+  - hr7530
+  document_title: H.R. 7530 – D.C. CRIMES Act of 2024
+  congress: 118
+  date_issued: '2024-05-14'
+  file: statements/46-Biden/118/2024-05-14_hr7530.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/05/SAP-HR7530.pdf
+  date_fetched: '2024-05-15T01:44:38.274203'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8369
+  document_title: H.R. 8369 -Israel Security Assistance Support Act
+  congress: 118
+  date_issued: '2024-05-14'
+  file: statements/46-Biden/118/2024-05-14_hr8369.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/05/SAP-HR8369.pdf
+  date_fetched: '2024-05-15T01:44:38.334284'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr3935
   document_title: Senate Substitute Amendment to H.R. 3935- FAA Reauthorization Act
     of 2024

@@ -1,4 +1,15 @@
 - bills:
+  - sjres57
+  document_title: S.J. Res. 57 – Congressional Disapproval of the Rule Submitted by
+    the Department of theTreasury Relating to “Coronavirus State and Local Fiscal
+    Recovery Funds”
+  congress: 118
+  date_issued: '2024-05-15'
+  file: statements/46-Biden/118/2024-05-15_sjres57.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/05/SAP-SJR57.pdf
+  date_fetched: '2024-05-15T16:50:38.879927'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr7530
   document_title: H.R. 7530 – D.C. CRIMES Act of 2024
   congress: 118

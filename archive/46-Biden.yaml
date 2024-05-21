@@ -1,4 +1,15 @@
 - bills:
+  - sjres58
+  document_title: 'S.J. Res. 58 – A Joint Resolution Providing for Congressional Disapproval
+    of the Rule Submitted by the Department of Energy relating to “Energy Conservation
+    Program: Energy Conservation Standards for Consumer Furnaces”'
+  congress: 118
+  date_issued: '2024-05-21'
+  file: statements/46-Biden/118/2024-05-21_sjres58.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/05/SAP-SJRes58.pdf
+  date_fetched: '2024-05-21T16:50:22.949028'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - sjres57
   document_title: S.J. Res. 57 – Congressional Disapproval of the Rule Submitted by
     the Department of theTreasury Relating to “Coronavirus State and Local Fiscal

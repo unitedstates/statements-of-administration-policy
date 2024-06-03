@@ -1,4 +1,14 @@
 - bills:
+  - hr8580
+  document_title: H.R. 8580 — Military Construction and Veterans Affairs, and Related
+    Agencies
+  congress: 118
+  date_issued: '2024-06-03'
+  file: statements/46-Biden/118/2024-06-03_hr8580.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/06/H.R.-8580-—-Military-Construction-and-Veterans-Affairs-and-Related-Agencies-Appropriations-Act-2025-SAP.pdf
+  date_fetched: '2024-06-03T16:50:30.468580'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr4763
   document_title: H.R. 4763 – Financial Innovation and Technology for the 21st Century
     Act

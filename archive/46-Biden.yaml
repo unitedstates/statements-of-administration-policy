@@ -1,4 +1,32 @@
 - bills:
+  - s4445
+  document_title: S. 4445 – Right to IVF Act
+  congress: 118
+  date_issued: '2024-06-12'
+  file: statements/46-Biden/118/2024-06-12_s4445.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/06/SAP_S4445.pdf
+  date_fetched: '2024-06-12T16:50:36.409594'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8070
+  document_title: H.R. 8070 – Servicemember Quality of Life Improvement and National
+    Defense Authorization Act for FY 2025
+  congress: 118
+  date_issued: '2024-06-11'
+  file: statements/46-Biden/118/2024-06-11_hr8070.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/06/SAP-HR8070.pdf
+  date_fetched: '2024-06-12T16:50:36.473011'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - s4381
+  document_title: S. 4381 – Right to Contraception Act
+  congress: 118
+  date_issued: '2024-06-05'
+  file: statements/46-Biden/118/2024-06-05_s4381.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/06/SAP-S4381.pdf
+  date_fetched: '2024-06-12T16:50:36.535516'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr8282
   document_title: H.R. 8282 – The Illegitimate Court Counteraction Act
   congress: 118

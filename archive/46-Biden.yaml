@@ -1,4 +1,13 @@
 - bills:
+  - hr8281
+  document_title: H.R. 8281 – Safeguard American Voter Eligibility Act
+  congress: 118
+  date_issued: '2024-07-08'
+  file: statements/46-Biden/118/2024-07-08_hr8281.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/SAP-HR8281.pdf
+  date_fetched: '2024-07-08T16:50:25.620811'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr8774
   document_title: H.R. 8774 — Department of Defense Appropriations Act, 2025
   congress: 118

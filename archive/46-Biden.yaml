@@ -1,4 +1,26 @@
 - bills:
+  - hjres165
+  document_title: H.J. Res. 165 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the Department of Education
+    relating to “Nondiscrimination on the Basis of Sex in Education Programs or Activities
+    Receiving Federal Financial Assistance”
+  congress: 118
+  date_issued: '2024-07-08'
+  file: statements/46-Biden/118/2024-07-08_hjres165.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/SAP-HJRes-165.pdf
+  date_fetched: '2024-07-09T01:48:50.278015'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr7637
+  document_title: H.R. 7637 – Refrigerator Freedom Act H.R. 7700 – Stop Unaffordable
+    Dishwasher Standards Act
+  congress: 118
+  date_issued: '2024-07-08'
+  file: statements/46-Biden/118/2024-07-08_hr7637.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/SAP-HR7637-HR7700.pdf
+  date_fetched: '2024-07-09T01:48:50.317940'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr8281
   document_title: H.R. 8281 – Safeguard American Voter Eligibility Act
   congress: 118

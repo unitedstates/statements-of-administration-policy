@@ -1,4 +1,13 @@
 - bills:
+  - s4554
+  document_title: 'S. 4554 – Reproductive Freedom for Women Act '
+  congress: 118
+  date_issued: '2024-07-09'
+  file: statements/46-Biden/118/2024-07-09_s4554.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/SAP-S4554.pdf
+  date_fetched: '2024-07-09T16:50:29.657576'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hjres165
   document_title: H.J. Res. 165 – Providing for congressional disapproval under chapter
     8 of title 5, United States Code, of the rule submitted by the Department of Education

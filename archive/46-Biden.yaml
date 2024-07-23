@@ -1,4 +1,44 @@
 - bills:
+  - hr9027
+  document_title: H.R. 9027 — Agriculture, Rural Development, Food and Drug Administration,
+    and Related Agencies Appropriations Act, 2025
+  congress: 118
+  date_issued: '2024-07-22'
+  file: statements/46-Biden/118/2024-07-22_hr9027.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/H.R.-9027-—-Agriculture-Rural-Development-Food-and-Drug-Administration-and-Related-Agencies-Appropriations-Act-2025.pdf
+  date_fetched: '2024-07-23T01:50:02.981667'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8998
+  document_title: 'H.R. 8998 — Department of the Interior, Environment, and Related
+    Agencies Appropriations Act, 2025 '
+  congress: 118
+  date_issued: '2024-07-22'
+  file: statements/46-Biden/118/2024-07-22_hr8998.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/H.R.-8998-—-Department-of-the-Interior-Environment-and-Related-Agencies-Appropriations-Act-2025.pdf
+  date_fetched: '2024-07-23T01:50:03.024156'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8997
+  document_title: H.R. 8997 — Energy and Water Development and Related Agencies Appropriations
+    Act, 2025
+  congress: 118
+  date_issued: '2024-07-22'
+  file: statements/46-Biden/118/2024-07-22_hr8997.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/H.R.-8997-—-Energy-and-Water-Development-and-Related-Agencies-Appropriations-Act-2025.pdf
+  date_fetched: '2024-07-23T01:50:03.064767'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8773
+  document_title: H.R. 8773 — Financial Services and General Government Appropriations
+    Act, 2025
+  congress: 118
+  date_issued: '2024-07-22'
+  file: statements/46-Biden/118/2024-07-22_hr8773.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/H.R.-8773-—-Financial-Services-and-General-Government-Appropriations-Act-2025.pdf
+  date_fetched: '2024-07-23T01:50:03.105341'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - s4554
   document_title: 'S. 4554 – Reproductive Freedom for Women Act '
   congress: 118

@@ -1,4 +1,170 @@
 - bills:
+  - hr115
+  document_title: H.R. 115 – Midnight Rules Relief Act
+  congress: 118
+  date_issued: '2024-12-16'
+  file: statements/46-Biden/118/2024-12-16_hr115.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/12/SAP-HR115.pdf
+  date_fetched: '2024-12-30T15:38:21.975111'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - s4199
+  document_title: S.4199 – Judicial Understaffing Delays Getting Emergencies Solved
+    (JUDGES) Act of 2024
+  congress: 118
+  date_issued: '2024-12-10'
+  file: statements/46-Biden/118/2024-12-10_s4199.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/12/SAP-S4199.pdf
+  date_fetched: '2024-12-30T15:38:22.043378'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr9747
+  document_title: 'H.R. 9747 — Continuing Appropriations and Extensions Act, 2025 '
+  congress: 118
+  date_issued: '2024-09-24'
+  file: statements/46-Biden/118/2024-09-24_hr9747.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/H.R.-9747-Continuing-Appropriations-and-Extensions-Act-2025-Final-Updated.pdf
+  date_fetched: '2024-12-30T15:38:22.545765'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3334
+  document_title: H.R. 3334 – STOP CCP Act
+  congress: 118
+  date_issued: '2024-09-23'
+  file: statements/46-Biden/118/2024-09-23_hr3334.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR3334.pdf
+  date_fetched: '2024-12-30T15:38:22.628518'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr8790
+  document_title: H.R. 8790 – Fix Our Forests Act
+  congress: 118
+  date_issued: '2024-09-23'
+  file: statements/46-Biden/118/2024-09-23_hr8790.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR8790.pdf
+  date_fetched: '2024-12-30T15:38:23.195944'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hjres136
+  document_title: H.J. Res. 136 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the Environmental Protection
+    Agency relating to “Multi-Pollutant Emissions Standards for Model Years 2027 and
+    Later Light-Duty and Medium-Duty Vehicles”
+  congress: 118
+  date_issued: '2024-09-20'
+  file: statements/46-Biden/118/2024-09-20_hjres136.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HJR136.pdf
+  date_fetched: '2024-12-30T15:38:23.839429'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr3724
+  document_title: H.R. 3724 – End Woke Higher Education Act
+  congress: 118
+  date_issued: '2024-09-17'
+  file: statements/46-Biden/118/2024-09-17_hr3724.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR-3724.pdf
+  date_fetched: '2024-12-30T15:38:24.422842'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr4790
+  document_title: H.R. 4790 – Prioritizing Economic Growth Over Woke Policies Act
+  congress: 118
+  date_issued: '2024-09-17'
+  file: statements/46-Biden/118/2024-09-17_hr4790.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR-4790.pdf
+  date_fetched: '2024-12-30T15:38:25.051408'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr5339
+  document_title: H.R. 5339 – Protecting Americans’ Investments from Woke Policies
+    Act
+  congress: 118
+  date_issued: '2024-09-17'
+  file: statements/46-Biden/118/2024-09-17_hr5339.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR-5339.pdf
+  date_fetched: '2024-12-30T15:38:25.651409'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr1425
+  document_title: H.R. 1425 – No WHO Pandemic Preparedness Treaty Without Senate Approval
+    Act
+  congress: 118
+  date_issued: '2024-09-11'
+  file: statements/46-Biden/118/2024-09-11_hr1425.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR1425.pdf
+  date_fetched: '2024-12-30T15:38:26.473420'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr7980
+  document_title: H.R. 7980 – End Chinese Dominance of Electric Vehicles in America
+    Act of 2024
+  congress: 118
+  date_issued: '2024-09-11'
+  file: statements/46-Biden/118/2024-09-11_hr7980.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR7980.pdf
+  date_fetched: '2024-12-30T15:38:27.097445'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr9456
+  document_title: H.R. 9456 – Protecting American Agriculture from Foreign Adversaries
+    Act of 2024
+  congress: 118
+  date_issued: '2024-09-11'
+  file: statements/46-Biden/118/2024-09-11_hr9456.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR9456.pdf
+  date_fetched: '2024-12-30T15:38:27.622585'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr1398
+  document_title: H.R. 1398 – Protect America’s Innovation and Economic Security from
+    CCP Act of 2024
+  congress: 118
+  date_issued: '2024-09-10'
+  file: statements/46-Biden/118/2024-09-10_hr1398.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR1398.pdf
+  date_fetched: '2024-12-30T15:38:28.265508'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr1516
+  document_title: H.R. 1516 – DHS Restrictions on Confucius Institutes and Chinese
+    Entities of Concern Act
+  congress: 118
+  date_issued: '2024-09-10'
+  file: statements/46-Biden/118/2024-09-10_hr1516.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/SAP-HR1516.pdf
+  date_fetched: '2024-12-30T15:38:29.135376'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr9494
+  document_title: H.R. 9494— Continuing Appropriations and Other Matters Act, 2025
+    Final
+  congress: 118
+  date_issued: '2024-09-09'
+  file: statements/46-Biden/118/2024-09-09_hr9494.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/09/H.R.-9494—-Continuing-Appropriations-and-Other-Matters-Act-2025-Final.pdf
+  date_fetched: '2024-12-30T15:38:29.510170'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - hr7024
+  document_title: H.R. 7024 – Tax Relief for American Families and Workers Act of
+    2024
+  congress: 118
+  date_issued: '2024-08-01'
+  file: statements/46-Biden/118/2024-08-01_hr7024.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/08/SAP-HR7024-.pdf
+  date_fetched: '2024-12-30T15:38:30.171820'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
+  - amendmentinthenatureofasubstitutetos2073
+  document_title: Amendment in the Nature of a Substitute to S. 2073 -Kids Online
+    Safety and Privacy Act
+  congress: 118
+  date_issued: '2024-07-25'
+  file: statements/46-Biden/118/2024-07-25_amendmentinthenatureofasubstitutetos2073.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/07/SAP-ANS-S2073.pdf
+  date_fetched: '2024-12-30T15:38:30.974978'
+  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
+- bills:
   - hr9027
   document_title: H.R. 9027 — Agriculture, Rural Development, Food and Drug Administration,
     and Related Agencies Appropriations Act, 2025
@@ -478,15 +644,6 @@
   file: statements/46-Biden/118/2024-02-05_hres863.pdf
   fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/02/SAP-HRes-863-1.pdf
   date_fetched: '2024-02-06T01:34:59.304048'
-  source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
-- bills:
-  - hr7217
-  document_title: H.R. 7217 -Israel Security Supplemental Appropriations Act, 2024
-  congress: 118
-  date_issued: '2024-02-05'
-  file: statements/46-Biden/118/2024-02-05_hr7217.pdf
-  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2024/02/H.R.-7217-Israel-Security-Supplemental-Appropriations-Act-2024-SAP.pdf
-  date_fetched: '2024-02-06T01:34:59.247245'
   source: https://www.whitehouse.gov/omb/statements-of-administration-policy/
 - bills:
   - hres863

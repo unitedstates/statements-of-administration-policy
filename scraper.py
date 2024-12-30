@@ -43,6 +43,12 @@ class SAPSpider(scrapy.Spider):
             if "Opt in to send and receive text messages from President Biden" in item.text:
                 continue
 
+            # Could not parse bill number
+            if "Israel Security Supplemental Appropriations Act" in item.text:
+                continue
+            if "Limit, Save, Grow Act" in item.text:
+                continue
+
             date_issued = re.search(r"\(((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d+,\s*\d+)\)", item.text).group(1)
             date_issued = re.sub(r",(?=\d)", ", ", date_issued) # a missing space after the comma in the date breaks dateutil.parser, as happened for 46-Biden/117/2021-09-21_hr5305
 

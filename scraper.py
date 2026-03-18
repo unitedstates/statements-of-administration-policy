@@ -18,7 +18,7 @@ dashes = re.compile('[—–-]') # em dash, en dash, hyphen
 class SAPSpider(scrapy.Spider):
     name = "sap"
 
-    AdministrationCode = "46-Biden"
+    AdministrationCode = "47-Trump"
 
     allowed_domains = ['www.whitehouse.gov']
     start_urls = ['https://www.whitehouse.gov/omb/statements-of-administration-policy/']
@@ -32,9 +32,8 @@ class SAPSpider(scrapy.Spider):
     def parse(self, response):
         soup = bs4(response.text, 'html.parser')
 
-        con = soup.find('section', {'class': 'body-content'})
-        con = con.find('div', {'class': 'container'})
-        con = con.find('div', {'class': 'row'})
+        con = soup.find('main', {'class': 'wp-block-group'})
+        con = con.find('div', {'class': 'entry-content'})
         ps = con.findAllNext('p')#[1:]
 
         for item in ps:

@@ -66,3 +66,12 @@
   terms:
     start: '2021-01-20'
     end: '2025-01-20'
+47-Trump:
+  id:
+    govtrack: 412733
+  name:
+    first: Donald
+    last: Trump
+  terms:
+    start: '2025-01-20'
+    end: '2029-01-20'

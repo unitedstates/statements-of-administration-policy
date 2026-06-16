@@ -59,7 +59,7 @@ class SAPSpider(scrapy.Spider):
                 print(f"Could not find bill number(s) in document title text: '{text}'.")
                 continue
             bill_numbers = number_title_split[0].strip()
-            bill_numbers = bill_numbers.split(",")
+            bill_numbers = re.split(r",|\s+and\s+", bill_numbers, flags=re.IGNORECASE)
             bill_numbers = [re.sub(r"[\s\.]", "", b.lower()) for b in bill_numbers]
 
             # Sanitize bill numbers.

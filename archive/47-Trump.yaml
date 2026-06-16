@@ -292,21 +292,12 @@
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
 - bills:
   - sjres32
-  document_title: S.J. Res. 32 and S.J. Res. 138 – Joint Resolutions Providing for
-    Congressional Disapproval of Proposed Foreign Military Sales to Israel
-  congress: 119
-  date_issued: '2026-04-15'
-  file: statements/47-Trump/119/2026-04-15_sjres32andsjres138.pdf
-  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJR32-138.pdf
-  date_fetched: '2026-06-16T10:28:28.908227'
-  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
-- bills:
   - sjres138
   document_title: S.J. Res. 32 and S.J. Res. 138 – Joint Resolutions Providing for
     Congressional Disapproval of Proposed Foreign Military Sales to Israel
   congress: 119
   date_issued: '2026-04-15'
-  file: statements/47-Trump/119/2026-04-15_sjres32andsjres138.pdf
+  file: statements/47-Trump/119/2026-04-15_sjres32,sjres138.pdf
   fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJR32-138.pdf
   date_fetched: '2026-06-16T10:28:28.908227'
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/

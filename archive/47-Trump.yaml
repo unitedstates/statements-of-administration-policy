@@ -1,4 +1,408 @@
 - bills:
+  - hr8646
+  document_title: H.R. 8646 — Agriculture, Rural Development, Food and Drug Administration,
+    and Related Agencies Appropriations Act, 2027
+  congress: 119
+  date_issued: '2026-06-04'
+  file: statements/47-Trump/119/2026-06-04_hr8646.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/H.R.-8646-SAP_Updated.pdf
+  date_fetched: '2026-06-16T10:28:20.844051'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - s2
+  document_title: 'S. 2 – Secure America Act '
+  congress: 119
+  date_issued: '2026-06-03'
+  file: statements/47-Trump/119/2026-06-03_s2.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/S.-2-SAP.pdf
+  date_fetched: '2026-06-16T10:28:21.110929'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr1329
+  document_title: H.R. 1329 – the Smithsonian American Women’s History Museum Ac
+  congress: 119
+  date_issued: '2026-05-20'
+  file: statements/47-Trump/119/2026-05-20_hr1329.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HR1329.pdf
+  date_fetched: '2026-06-16T10:28:21.432895'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr2616
+  document_title: H.R. 2616 – the Stopping Indoctrination and Protecting Kids Act
+  congress: 119
+  date_issued: '2026-05-20'
+  file: statements/47-Trump/119/2026-05-20_hr2616.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HR2616.pdf
+  date_fetched: '2026-06-16T10:28:21.684808'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hconres86
+  document_title: H. Con. Res. 86 – directing the Removal of United States Armed Forces
+    from Hostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-05-20'
+  file: statements/47-Trump/119/2026-05-20_hconres86.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HCR86.pdf
+  date_fetched: '2026-06-16T10:28:21.975335'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hres1299
+  document_title: H. Res. 1299 – Providing for the concurrence by the House in the
+    Senate amendment to the 21st Century ROAD to Housing Act, with amendment
+  congress: 119
+  date_issued: '2026-05-20'
+  file: statements/47-Trump/119/2026-05-20_hres1299.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HRES1299.pdf
+  date_fetched: '2026-06-16T10:28:22.296782'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres185
+  document_title: S.J. Res. 185 – Directing the Removal of the United States Armed
+    Forces form Hostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-05-19'
+  file: statements/47-Trump/119/2026-05-19_sjres185.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-SJR185.pdf
+  date_fetched: '2026-06-16T10:28:22.568658'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr8365
+  document_title: 'H.R. 8365 – Monitor Accountability Act '
+  congress: 119
+  date_issued: '2026-05-13'
+  file: statements/47-Trump/119/2026-05-13_hr8365.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HR8365.pdf
+  date_fetched: '2026-06-16T10:28:22.743244'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr6260
+  document_title: 'H.R. 6260 – Keeping Violent Offenders Off Our Streets Act '
+  congress: 119
+  date_issued: '2026-05-13'
+  file: statements/47-Trump/119/2026-05-13_hr6260.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HR6260.pdf
+  date_fetched: '2026-06-16T10:28:23.002957'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr5625
+  document_title: 'H.R. 5625 – Cashless Bail Reporting Act '
+  congress: 119
+  date_issued: '2026-05-13'
+  file: statements/47-Trump/119/2026-05-13_hr5625.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HR5625.pdf
+  date_fetched: '2026-06-16T10:28:23.262881'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres163
+  document_title: S.J. Res. 163 – Directing the Removal of United States Armed Forces
+    from Hostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-05-13'
+  file: statements/47-Trump/119/2026-05-13_sjres163.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-SJR163.pdf
+  date_fetched: '2026-06-16T10:28:23.592564'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hconres75
+  document_title: H.Con. Res. 75 – Directing the Removal of United States Armed Forces
+    from Hostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-05-13'
+  file: statements/47-Trump/119/2026-05-13_hconres75.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HCR75.pdf
+  date_fetched: '2026-06-16T10:28:23.947450'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr8509
+  document_title: H.R. 8509 -Amending the Consolidated Appropriations Act, 2023 to
+    Extend the TimePeriod for which Certain Regulations Concerning the North Atlantic
+    Right Whale are Effective
+  congress: 119
+  date_issued: '2026-05-01'
+  file: statements/47-Trump/119/2026-05-01_hr8509.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HR8509.pdf
+  date_fetched: '2026-06-16T10:28:24.178245'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres184
+  document_title: S.J. Res. 184 – Directing the Removal of United States Armed Forces
+    from Hostilities Within or Against the Islamic Republic of Iran that Have Not
+    Been Authorized by Congress
+  congress: 119
+  date_issued: '2026-04-30'
+  file: statements/47-Trump/119/2026-04-30_sjres184.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-SJR184.pdf
+  date_fetched: '2026-06-16T10:28:24.469290'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres139
+  document_title: S.J. Res. 139 – Providing for Congressional Disapproval of the Rule
+    Submitted by the Environmental Protection Agency Relating to “Air Plan Disapproval;
+    Colorado; Regional Haze Plan for the Second Implementation Period”
+  congress: 119
+  date_issued: '2026-04-29'
+  file: statements/47-Trump/119/2026-04-29_sjres139.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-SJR139.pdf
+  date_fetched: '2026-06-16T10:28:24.745873'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres99
+  document_title: S.J. Res. 99 – Joint Resolution Providing for Congressional Disapproval
+    of the RuleSubmitted by U.S. Citizenship and Immigration Services relating to
+    “Removal of the Automatic Extension of Employment Authorization Documents”
+  congress: 119
+  date_issued: '2026-04-29'
+  file: statements/47-Trump/119/2026-04-29_sjres99.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-SJR99.pdf
+  date_fetched: '2026-06-16T10:28:25.026153'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres124
+  document_title: S.J. Res. 124 – Directing the Removal of United States Armed Forces
+    from Hostilities Within or Against the Republic of Cuba that Have Not Been Authorized
+    by Congress
+  congress: 119
+  date_issued: '2026-04-28'
+  file: statements/47-Trump/119/2026-04-28_sjres124.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-SJR124.pdf
+  date_fetched: '2026-06-16T10:28:25.262549'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr7567
+  document_title: H.R. 7567 – Farm, Food, and National Security Act of 2026
+  congress: 119
+  date_issued: '2026-04-27'
+  file: statements/47-Trump/119/2026-04-27_hr7567.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HR7567.pdf
+  date_fetched: '2026-06-16T10:28:25.660581'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr5587
+  document_title: H.R. 5587 – Harnessing Energy At Thermal Sources (HEATS) Act of
+    2026
+  congress: 119
+  date_issued: '2026-04-22'
+  file: statements/47-Trump/119/2026-04-22_hr5587.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-H.R.-5587.pdf
+  date_fetched: '2026-06-16T10:28:25.948124'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr4690
+  document_title: H.R. 4690 – Reliable Federal Infrastructure Act
+  congress: 119
+  date_issued: '2026-04-22'
+  file: statements/47-Trump/119/2026-04-22_hr4690.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-H.R.-4690.pdf
+  date_fetched: '2026-06-16T10:28:26.187271'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr1897
+  document_title: H.R. 1897 – Endangered Species Act Amendments Act
+  congress: 119
+  date_issued: '2026-04-21'
+  file: statements/47-Trump/119/2026-04-21_hr1897.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-HR1897.pdf
+  date_fetched: '2026-06-16T10:28:26.465685'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sconres33
+  document_title: 'S. Con. Res. 33 – Setting forth the congressional budget for the
+    United States Government for fiscal year 2026 and setting forth the appropriate
+    budgetary levels for fiscal years 2027 through 2035 '
+  congress: 119
+  date_issued: '2026-04-21'
+  file: statements/47-Trump/119/2026-04-21_sconres33.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/S-Con-Res-33-SAP.pdf
+  date_fetched: '2026-06-16T10:28:26.667127'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres110
+  document_title: 'S.J. Res. 110 -Joint Resolution Providing for Congressional Disapproval
+    of the Rule Submitted by the Department of the Treasury Relating to “Regulatory
+    Capital Rule: Modifications to the Enhanced Supplementary Leverage Ratio Standards
+    for U.S. Global Systemically Important Bank Holding Companies and their Subsidiary
+    DepositoryInstitutions; Total Loss-Absorbing Capacity and Long-Term Debt Requirements
+    for U.S. Global Systemically Important Bank Holding Companies”'
+  congress: 119
+  date_issued: '2026-04-20'
+  file: statements/47-Trump/119/2026-04-20_sjres110.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-SJRes110.pdf
+  date_fetched: '2026-06-16T10:28:27.002860'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hconres40
+  document_title: H. Con. Res. 40 – Directing the President, pursuant to section 5(c)
+    of the War Powers Resolution, to remove United States Armed Forces from hostilities
+    with Iran
+  congress: 119
+  date_issued: '2026-04-16'
+  file: statements/47-Trump/119/2026-04-16_hconres40.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HCR40.pdf
+  date_fetched: '2026-06-16T10:28:27.297892'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr6409
+  document_title: H.R. 6409 – Foreign Emissions and Nonattainment Clarification for
+    Economic Stability (FENCES) Act
+  congress: 119
+  date_issued: '2026-04-15'
+  file: statements/47-Trump/119/2026-04-15_hr6409.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR6409.pdf
+  date_fetched: '2026-06-16T10:28:27.574124'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr6398
+  document_title: H.R. 6398 – Reducing and Eliminating Duplicative Environmental Regulations
+  congress: 119
+  date_issued: '2026-04-15'
+  file: statements/47-Trump/119/2026-04-15_hr6398.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR6398.pdf
+  date_fetched: '2026-06-16T10:28:27.887357'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr6387
+  document_title: H.R. 6387 – Fire Improvement and Reforming Exceptional Events (FIRE)
+    Act
+  congress: 119
+  date_issued: '2026-04-15'
+  file: statements/47-Trump/119/2026-04-15_hr6387.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR6387.pdf
+  date_fetched: '2026-06-16T10:28:28.139016'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr1689
+  document_title: H.R. 1689 – To require the Secretary of Homeland Security to designate
+    Haiti for Temporary Protected Status
+  congress: 119
+  date_issued: '2026-04-15'
+  file: statements/47-Trump/119/2026-04-15_hr1689.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR1689.pdf
+  date_fetched: '2026-06-16T10:28:28.370840'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres123
+  document_title: S.J. Res. 123 – Directing the Removal of United States Armed Forces
+    from Hostilities Within or Against the Islamic Republic of Iran that Have Not
+    Been Authorized by Congress
+  congress: 119
+  date_issued: '2026-04-15'
+  file: statements/47-Trump/119/2026-04-15_sjres123.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJRes123.pdf
+  date_fetched: '2026-06-16T10:28:28.644045'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres32
+  document_title: S.J. Res. 32 and S.J. Res. 138 – Joint Resolutions Providing for
+    Congressional Disapproval of Proposed Foreign Military Sales to Israel
+  congress: 119
+  date_issued: '2026-04-15'
+  file: statements/47-Trump/119/2026-04-15_sjres32andsjres138.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJR32-138.pdf
+  date_fetched: '2026-06-16T10:28:28.908227'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres138
+  document_title: S.J. Res. 32 and S.J. Res. 138 – Joint Resolutions Providing for
+    Congressional Disapproval of Proposed Foreign Military Sales to Israel
+  congress: 119
+  date_issued: '2026-04-15'
+  file: statements/47-Trump/119/2026-04-15_sjres32andsjres138.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJR32-138.pdf
+  date_fetched: '2026-06-16T10:28:28.908227'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr7084
+  document_title: H.R. 7084 -Defending American Property Abroad Act of 2026
+  congress: 119
+  date_issued: '2026-03-26'
+  file: statements/47-Trump/119/2026-03-26_hr7084.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-H.R.-7084.pdf
+  date_fetched: '2026-06-16T10:28:29.176918'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr5103
+  document_title: H.R. 5103 – Make the District of Columbia Safe and Beautiful Act
+    of 2026
+  congress: 119
+  date_issued: '2026-03-25'
+  file: statements/47-Trump/119/2026-03-25_hr5103.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR5103.pdf
+  date_fetched: '2026-06-16T10:28:29.439394'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres107
+  document_title: S.J. Res. 107 -Joint Resolution Providing for Congressional Disapproval
+    of the Rule Submitted by the Internal Revenue Service Relating to “Beginning of
+    Construction Requirements for Purposes of the Termination of Clean Electricity
+    Production Credits and Clean Electricity Investment Credits for Applicable Wind
+    and Solar Facilities”
+  congress: 119
+  date_issued: '2026-03-25'
+  file: statements/47-Trump/119/2026-03-25_sjres107.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJR107.pdf
+  date_fetched: '2026-06-16T10:28:29.674709'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres103
+  document_title: S.J. Res. 103 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the Department of Veterans
+    Affairs relating to ‘‘Reproductive Health Services’’
+  congress: 119
+  date_issued: '2026-03-25'
+  file: statements/47-Trump/119/2026-03-25_sjres103.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJR103.pdf
+  date_fetched: '2026-06-16T10:28:29.918195'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres116
+  document_title: S.J. Res. 116 – Directing the Removal of United States Armed Forces
+    from Hostilities Within or Against the Islamic Republic of Iran that Have Not
+    Been Authorized by Congress
+  congress: 119
+  date_issued: '2026-03-24'
+  file: statements/47-Trump/119/2026-03-24_sjres116.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJRes-116.pdf
+  date_fetched: '2026-06-16T10:28:30.140912'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres118
+  document_title: 'S.J. Res. 118 – Directing the Removal of United States Armed Forces
+    from Hostilities Within or Against the Islamic Republic of Iran that Have Not
+    Been Authorized by Congress '
+  congress: 119
+  date_issued: '2026-03-18'
+  file: statements/47-Trump/119/2026-03-18_sjres118.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-SJRes-118.pdf
+  date_fetched: '2026-06-16T10:28:30.333816'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr4638
+  document_title: H.R. 4638 – BOWOW Act of 2025
+  congress: 119
+  date_issued: '2026-03-18'
+  file: statements/47-Trump/119/2026-03-18_hr4638.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR4638.pdf
+  date_fetched: '2026-06-16T10:28:30.669483'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr1958
+  document_title: H.R. 1958 – Deporting Fraudsters Act of 2026
+  congress: 119
+  date_issued: '2026-03-18'
+  file: statements/47-Trump/119/2026-03-18_hr1958.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR1958.pdf
+  date_fetched: '2026-06-16T10:28:31.073510'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr556
+  document_title: H.R. 556 -Protecting Access for Hunters and Anglers Act
+  congress: 119
+  date_issued: '2026-03-18'
+  file: statements/47-Trump/119/2026-03-18_hr556.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR556.pdf
+  date_fetched: '2026-06-16T10:28:31.392700'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr7744
   document_title: H.R. 7744 – Department of Homeland Security Appropriations Act,
     2026
@@ -37,6 +441,42 @@
   file: statements/47-Trump/119/2026-03-02_hr6644.pdf
   fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/03/SAP-HR6644-Sen-Amend.pdf
   date_fetched: '2026-03-16T15:59:00.181216'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr3617
+  document_title: 'H.R. 3617 – Securing America’s Critical Minerals Supply Act '
+  congress: 119
+  date_issued: '2026-02-11'
+  file: statements/47-Trump/119/2026-02-11_hr3617.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-H.R.-3617.pdf
+  date_fetched: '2026-06-16T10:28:31.583720'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr2189
+  document_title: 'H.R. 2189 – Law-Enforcement Innovate to De-Escalate Act '
+  congress: 119
+  date_issued: '2026-02-11'
+  file: statements/47-Trump/119/2026-02-11_hr2189.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-H.R.-2189.pdf
+  date_fetched: '2026-06-16T10:28:31.854263'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr261
+  document_title: 'H.R. 261 – Undersea Cable Protection Act of 2025 '
+  congress: 119
+  date_issued: '2026-02-11'
+  file: statements/47-Trump/119/2026-02-11_hr261.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/05/SAP-H.R.-261.pdf
+  date_fetched: '2026-06-16T10:28:32.143747'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - s1383
+  document_title: House Amendment to S. 1383 – SAVE America Act
+  congress: 119
+  date_issued: '2026-02-11'
+  file: statements/47-Trump/119/2026-02-11_s1383.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/03/SAP-House-Amendment-to-S.-1383.pdf
+  date_fetched: '2026-06-16T10:28:32.427409'
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
 - bills:
   - hr6644

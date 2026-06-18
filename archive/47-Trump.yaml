@@ -1,4 +1,25 @@
 - bills:
+  - sjres190
+  document_title: S.J. Res. 190 – Joint Resolution Providing for Congressional Disapproval
+    of the RuleSubmitted by the Executive Office for Immigration Review Relating to
+    “Appellate Procedures for the Board of Immigration Appeals”
+  congress: 119
+  date_issued: '2026-06-16'
+  file: statements/47-Trump/119/2026-06-16_sjres190.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/SAP-SJR190.pdf
+  date_fetched: '2026-06-18T05:24:18.680939'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres172
+  document_title: S.J. Res. 172 – Directing the Removal of United States Armed Forces
+    from Hostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-06-16'
+  file: statements/47-Trump/119/2026-06-16_sjres172.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/SAP-SJR172.pdf
+  date_fetched: '2026-06-18T05:24:18.721161'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr8646
   document_title: H.R. 8646 — Agriculture, Rural Development, Food and Drug Administration,
     and Related Agencies Appropriations Act, 2027
@@ -9,6 +30,16 @@
   date_fetched: '2026-06-16T10:28:20.844051'
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
 - bills:
+  - hconres86
+  document_title: H. Con. Res. 86 – Directing the Removal of United States Armed Forces
+    from Hostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-06-03'
+  file: statements/47-Trump/119/2026-06-03_hconres86.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/SAP-HCR86-6.3.26.pdf
+  date_fetched: '2026-06-18T05:24:18.759250'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - s2
   document_title: 'S. 2 – Secure America Act '
   congress: 119
@@ -16,6 +47,25 @@
   file: statements/47-Trump/119/2026-06-03_s2.pdf
   fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/S.-2-SAP.pdf
   date_fetched: '2026-06-16T10:28:21.110929'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr6047
+  document_title: H.R. 6047 – Sharri Briley and Eric Edmundson Veterans Benefits Expansion
+    Act of 2026
+  congress: 119
+  date_issued: '2026-05-21'
+  file: statements/47-Trump/119/2026-05-21_hr6047.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/SAP-HR6047.pdf
+  date_fetched: '2026-06-18T05:24:18.795972'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr1041
+  document_title: H.R. 1041 – Veterans 2nd Amendment Protection Act
+  congress: 119
+  date_issued: '2026-05-21'
+  file: statements/47-Trump/119/2026-05-21_hr1041.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/SAP-HR1041.pdf
+  date_fetched: '2026-06-18T05:24:18.833838'
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
 - bills:
   - hr1329

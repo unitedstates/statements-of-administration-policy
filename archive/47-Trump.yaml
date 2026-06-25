@@ -1,4 +1,14 @@
 - bills:
+  - hconres86
+  document_title: H. Con. Res. 86 – Directing the Removal of United States Armed Forces
+    from Hostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-06-23'
+  file: statements/47-Trump/119/2026-06-23_hconres86.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/SAP-Senate-HCR86.pdf
+  date_fetched: '2026-06-25T04:51:53.639828'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - sjres190
   document_title: S.J. Res. 190 – Joint Resolution Providing for Congressional Disapproval
     of the RuleSubmitted by the Executive Office for Immigration Review Relating to

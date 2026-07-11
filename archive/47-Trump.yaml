@@ -1,4 +1,13 @@
 - bills:
+  - hr9637
+  document_title: 'H.R. 9637 – Protecting Columbia River Salmon Act of 2026 '
+  congress: 119
+  date_issued: '2026-07-10'
+  file: statements/47-Trump/119/2026-07-10_hr9637.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-HR9637.pdf
+  date_fetched: '2026-07-11T03:56:54.850693'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hconres108
   document_title: 'H. Con. Res. 108 – Directing the President pursuant to section
     5(c) of the War Powers Resolution to remove United States Armed Forces from hostilities

@@ -1,4 +1,13 @@
 - bills:
+  - hr9237
+  document_title: 'H.R. 9237 – Take Care of America’s Veterans Act '
+  congress: 119
+  date_issued: '2026-07-15'
+  file: statements/47-Trump/119/2026-07-15_hr9237.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-HR9237.pdf
+  date_fetched: '2026-07-16T03:52:02.030963'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr1181
   document_title: H.R. 1181 – Protecting Privacy in Purchases Act (
   congress: 119

@@ -1,4 +1,28 @@
 - bills:
+  - hconres113
+  document_title: 'H.Con.Res. 113 -Establishing the congressional budget for the United
+    States Government for fiscal year 2027 and setting forth the appropriate budgetary
+    levels for fiscal years 2028 through 2036. '
+  congress: 119
+  date_issued: '2026-07-20'
+  file: statements/47-Trump/119/2026-07-20_hconres113.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/HConRes-113-SAP.pdf
+  date_fetched: '2026-07-21T17:59:49.675265'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres198
+  document_title: 'S.J. Res. 198 – Providing for Congressional Disapproval of the
+    Rule Submitted by the Centers for Medicare & Medicaid Services of the Department
+    of Health and Human Services relatingto “Medicare Program; Implementation of Prior
+    Authorization for Select Services for the Wasteful and Inappropriate Services
+    Reduction (WISeR) Model” '
+  congress: 119
+  date_issued: '2026-07-16'
+  file: statements/47-Trump/119/2026-07-16_sjres198.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-SJR198-002.pdf
+  date_fetched: '2026-07-21T17:59:50.183320'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr9237
   document_title: 'H.R. 9237 – Take Care of America’s Veterans Act '
   congress: 119

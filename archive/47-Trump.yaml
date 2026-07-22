@@ -1,4 +1,22 @@
 - bills:
+  - hr8800
+  document_title: H.R. 8800 – National Defense Authorization Act for Fiscal Year 2027
+  congress: 119
+  date_issued: '2026-07-21'
+  file: statements/47-Trump/119/2026-07-21_hr8800.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-HR8800.pdf
+  date_fetched: '2026-07-22T17:54:19.712100'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr6955
+  document_title: H.R. 6955 – Main Street Capital Access Act
+  congress: 119
+  date_issued: '2026-07-21'
+  file: statements/47-Trump/119/2026-07-21_hr6955.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-HR6955.pdf
+  date_fetched: '2026-07-22T17:54:19.781632'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hconres113
   document_title: 'H.Con.Res. 113 -Establishing the congressional budget for the United
     States Government for fiscal year 2027 and setting forth the appropriate budgetary

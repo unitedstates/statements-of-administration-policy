@@ -1,4 +1,42 @@
 - bills:
+  - hr8884
+  document_title: 'H.R. 8884 – Removing Barriers to Work for Disabled Americans Act '
+  congress: 119
+  date_issued: '2026-07-23'
+  file: statements/47-Trump/119/2026-07-23_hr8884.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-HR8884.pdf
+  date_fetched: '2026-07-23T18:01:29.813038'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres180
+  document_title: S.J. Res. 180 – Directing the Removal of United States Armed Forces
+    fromHostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-07-23'
+  file: statements/47-Trump/119/2026-07-23_sjres180.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-SJR180.pdf
+  date_fetched: '2026-07-23T18:01:30.415732'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hconres89
+  document_title: 'H. Con. Res. 89 -Directing the Removal of United States Armed Forces
+    from Hostilities in the Islamic Republic of Iran '
+  congress: 119
+  date_issued: '2026-07-23'
+  file: statements/47-Trump/119/2026-07-23_hconres89.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-HCR-89.pdf
+  date_fetched: '2026-07-23T18:01:30.501668'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr7008
+  document_title: 'H.R. 7008 – Stop Insider Trading Act '
+  congress: 119
+  date_issued: '2026-07-22'
+  file: statements/47-Trump/119/2026-07-22_hr7008.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-HR7008.pdf
+  date_fetched: '2026-07-23T18:01:31.164919'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr8800
   document_title: H.R. 8800 – National Defense Authorization Act for Fiscal Year 2027
   congress: 119

@@ -136,6 +136,18 @@
   date_fetched: '2026-06-30T18:25:12.884872'
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
 - bills:
+  - sjres196
+  document_title: S.J. Res. 196 – A joint resolution providing for congressional disapproval
+    under chapter 8 of title 5, United States Code, of the rule submitted by the Department
+    of Education relating to ‘‘Reimagining and Improving Student Education-Federal
+    Student Loan Program Final Regulations
+  congress: 119
+  date_issued: '2026-06-24'
+  file: statements/47-Trump/119/2026-06-24_sjres196.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SJ-Res-196-SAP.pdf
+  date_fetched: '2026-07-24T18:05:29.978853'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hconres86
   document_title: H. Con. Res. 86 – Directing the Removal of United States Armed Forces
     from Hostilities in the Islamic Republic of Iran

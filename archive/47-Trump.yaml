@@ -1,4 +1,26 @@
 - bills:
+  - sjres199
+  document_title: 'S.J. Res. 199 – Providing for congressional disapproval under chapter
+    8 of title 5, United States Code, of the rule submitted by the Department of Health
+    and Human Services relating to “Restoring Flexibility in the Child Care and Development
+    Fund (CCDF) '
+  congress: 119
+  date_issued: '2026-07-30'
+  file: statements/47-Trump/119/2026-07-30_sjres199.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-SJR199.pdf
+  date_fetched: '2026-07-30T18:03:18.438546'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - sjres181
+  document_title: S.J. Res. 181 – Directing the Removal of United States Armed Forces
+    from Hostilities in the Islamic Republic of Iran
+  congress: 119
+  date_issued: '2026-07-30'
+  file: statements/47-Trump/119/2026-07-30_sjres181.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-SJR181.pdf
+  date_fetched: '2026-07-30T18:03:18.944409'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr8884
   document_title: 'H.R. 8884 – Removing Barriers to Work for Disabled Americans Act '
   congress: 119

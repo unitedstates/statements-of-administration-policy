@@ -21,6 +21,16 @@
   date_fetched: '2026-07-30T18:03:18.944409'
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
 - bills:
+  - hr5334
+  document_title: Senate Amendment to H.R. 5334 – Lindsey O. Graham Sanctioning Russia
+    and Iran Act of 2026
+  congress: 119
+  date_issued: '2026-07-28'
+  file: statements/47-Trump/119/2026-07-28_hr5334.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/07/SAP-SAmendHR5334.pdf
+  date_fetched: '2026-07-31T18:10:40.091386'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr8884
   document_title: 'H.R. 8884 – Removing Barriers to Work for Disabled Americans Act '
   congress: 119

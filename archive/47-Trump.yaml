@@ -1,4 +1,16 @@
 - bills:
+  - sjres187
+  document_title: S.J. Res. 187 – Providing for Congressional Disapproval of the Rule
+    Submitted by the Environmental Protection Agency relating to “Modification to
+    the Start of the Submission Period for Perfluoroalkyl and Polyfluoroalkyl Substances
+    (PFAS) Reporting and Recordkeeping Under TSCA 8(a)(7).
+  congress: 119
+  date_issued: '2026-08-04'
+  file: statements/47-Trump/119/2026-08-04_sjres187.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/08/SAP-SJR187.pdf
+  date_fetched: '2026-08-06T03:54:24.877862'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - sjres199
   document_title: 'S.J. Res. 199 – Providing for congressional disapproval under chapter
     8 of title 5, United States Code, of the rule submitted by the Department of Health

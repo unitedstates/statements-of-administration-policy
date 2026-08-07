@@ -1,4 +1,13 @@
 - bills:
+  - s4668
+  document_title: S.4668 – Protect College Sports Act of 2026
+  congress: 119
+  date_issued: '2026-08-06'
+  file: statements/47-Trump/119/2026-08-06_s4668.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/08/SAP-S4668.pdf
+  date_fetched: '2026-08-07T03:39:21.919861'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - sjres187
   document_title: S.J. Res. 187 – Providing for Congressional Disapproval of the Rule
     Submitted by the Environmental Protection Agency relating to “Modification to

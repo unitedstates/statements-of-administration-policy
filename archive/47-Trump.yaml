@@ -1,4 +1,13 @@
 - bills:
+  - s1462
+  document_title: S.1462 – Fix Our Forests Act
+  congress: 119
+  date_issued: '2026-08-10'
+  file: statements/47-Trump/119/2026-08-10_s1462.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/08/SAP-S1462.pdf
+  date_fetched: '2026-08-10T17:37:51.646945'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - s4668
   document_title: S.4668 – Protect College Sports Act of 2026
   congress: 119

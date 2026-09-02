@@ -1,4 +1,13 @@
 - bills:
+  - hr1501
+  document_title: H.R. 1501 – Protecting Domestic Mining Act of 2025
+  congress: 119
+  date_issued: '2026-09-02'
+  file: statements/47-Trump/119/2026-09-02_hr1501.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-HR1501.pdf
+  date_fetched: '2026-09-02T19:30:53.832563'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr9436
   document_title: 'H.R. 9436 – Northeast Lobsterman Protection Act of 2026 '
   congress: 119

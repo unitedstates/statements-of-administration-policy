@@ -1,4 +1,13 @@
 - bills:
+  - s1919
+  document_title: 'S. 1919 – Buying American Cotton Act of 2025 '
+  congress: 119
+  date_issued: '2026-09-03'
+  file: statements/47-Trump/119/2026-09-03_s1919.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-S1919.pdf
+  date_fetched: '2026-09-03T19:27:36.810403'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr1501
   document_title: H.R. 1501 – Protecting Domestic Mining Act of 2025
   congress: 119

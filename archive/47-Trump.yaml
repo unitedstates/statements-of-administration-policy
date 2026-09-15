@@ -1,4 +1,14 @@
 - bills:
+  - hconres93
+  document_title: H.Con. Res. 93 – Directing the President to remove United States
+    ArmedForces from Hostilities with Iran
+  congress: 119
+  date_issued: '2026-09-15'
+  file: statements/47-Trump/119/2026-09-15_hconres93.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-HCR93.pdf
+  date_fetched: '2026-09-15T19:50:54.604136'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - s1919
   document_title: 'S. 1919 – Buying American Cotton Act of 2025 '
   congress: 119

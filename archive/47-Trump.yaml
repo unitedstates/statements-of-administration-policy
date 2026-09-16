@@ -1,4 +1,24 @@
 - bills:
+  - hr10326
+  document_title: H.R. 10326 – Preventing Rip-offs and Obtaining Oversight of Funds
+    (PROOF) Act (September 16, 2026)
+  congress: 119
+  date_issued: '2026-09-16'
+  file: statements/47-Trump/119/2026-09-16_hr10326.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-HR10326.pdf
+  date_fetched: '2026-09-16T19:43:07.308273'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr9576
+  document_title: H.R. 9576 – National Fraud Enforcement Division Act of 2026 (September
+    16, 2026)
+  congress: 119
+  date_issued: '2026-09-16'
+  file: statements/47-Trump/119/2026-09-16_hr9576.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-HR9576.pdf
+  date_fetched: '2026-09-16T19:43:07.526293'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hjres213
   document_title: H.J. Res. 213 – Providing for Congressional Disapproval of the Rule
     Issued by theEnvironmental Protection Agency relating to “California State Nonroad

@@ -1,4 +1,28 @@
 - bills:
+  - hjres213
+  document_title: H.J. Res. 213 – Providing for Congressional Disapproval of the Rule
+    Issued by theEnvironmental Protection Agency relating to “California State Nonroad
+    Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice
+    of Decision”
+  congress: 119
+  date_issued: '2026-09-15'
+  file: statements/47-Trump/119/2026-09-15_hjres213.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-HJR213.pdf
+  date_fetched: '2026-09-16T05:19:04.965777'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hjres210
+  document_title: H.J. Res. 210 – Providing for Congressional Disapproval of the Rule
+    Submitted by theEnvironmental Protection Agency relating to “California State
+    Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice
+    of Decision”
+  congress: 119
+  date_issued: '2026-09-15'
+  file: statements/47-Trump/119/2026-09-15_hjres210.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-HJR210.pdf
+  date_fetched: '2026-09-16T05:19:05.042165'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hconres93
   document_title: H.Con. Res. 93 – Directing the President to remove United States
     ArmedForces from Hostilities with Iran

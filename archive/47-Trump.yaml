@@ -1,4 +1,14 @@
 - bills:
+  - hconres89
+  document_title: H. Con. Res. 89 – Directing the President to remove United States
+    Armed Forces from Hostilities with Iran (September 24, 2026)
+  congress: 119
+  date_issued: '2026-09-24'
+  file: statements/47-Trump/119/2026-09-24_hconres89.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-H.Con_.Res_.-89-Sen.pdf
+  date_fetched: '2026-09-24T20:09:26.581671'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr10326
   document_title: H.R. 10326 – Preventing Rip-offs and Obtaining Oversight of Funds
     (PROOF) Act (September 16, 2026)

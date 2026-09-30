@@ -1,4 +1,13 @@
 - bills:
+  - hr9340
+  document_title: H.R. 9340 – Ratepayer Protection Act (September 30, 2026)
+  congress: 119
+  date_issued: '2026-09-30'
+  file: statements/47-Trump/119/2026-09-30_hr9340.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/09/SAP-HR9340.pdf
+  date_fetched: '2026-09-30T21:01:22.653011'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - sres852
   document_title: S. Res. 852 – Request for Information on Israel’s Human Rights Practices
     (September 29, 2026)

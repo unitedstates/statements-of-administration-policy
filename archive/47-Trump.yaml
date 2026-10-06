@@ -374,6 +374,15 @@
   date_fetched: '2026-06-18T05:24:18.721161'
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
 - bills:
+  - hr8464
+  document_title: H.R. 8464 – Stopping Fraudulent Payments Act
+  congress: 119
+  date_issued: '2026-06-09'
+  file: statements/47-Trump/119/2026-06-09_hr8464.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/10/SAP-HR8464.pdf
+  date_fetched: '2026-10-06T21:15:24.240551'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
   - hr8646
   document_title: H.R. 8646 — Agriculture, Rural Development, Food and Drug Administration,
     and Related Agencies Appropriations Act, 2027
@@ -382,6 +391,24 @@
   file: statements/47-Trump/119/2026-06-04_hr8646.pdf
   fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/06/H.R.-8646-SAP_Updated.pdf
   date_fetched: '2026-06-16T10:28:20.844051'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr7892
+  document_title: H.R. 7892 – No Aid for Ghost Students Act of 2026
+  congress: 119
+  date_issued: '2026-06-03'
+  file: statements/47-Trump/119/2026-06-03_hr7892.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/10/SAP-HR7892.pdf
+  date_fetched: '2026-10-06T21:15:24.270582'
+  source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
+- bills:
+  - hr7726
+  document_title: H.R. 7726 – Stop Child Care Scams Act of 2026
+  congress: 119
+  date_issued: '2026-06-03'
+  file: statements/47-Trump/119/2026-06-03_hr7726.pdf
+  fetched_from_url: https://www.whitehouse.gov/wp-content/uploads/2026/10/SAP-HR7726.pdf
+  date_fetched: '2026-10-06T21:15:24.300553'
   source: https://www.whitehouse.gov/omb/information-resources/legislative/statements-of-administration-policy/
 - bills:
   - hconres86
